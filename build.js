@@ -3,19 +3,13 @@ var fs = require('fs');
 var path = require('path');
 var _ = require('lodash');
 var rimraf = require('rimraf');
+var babel = require("babel-core");
+var svgToJSX = require('svg-to-jsx');
+var snakeCase = require('change-case').snakeCase;
 var pascalCase = require('change-case').pascalCase;
 var emojis = require('emojione/emoji.json');
 var template = require('lodash/template');
-
-// Component Template
-var componentTmpl = fs.readFileSync('./templates/component.txt');
-var compiledComponentTmpl = template(componentTmpl);
-
-// Index Template
 var indexArr = [];
-var indexTmpl = fs.readFileSync('./templates/index.txt');
-var compiledIndexTmpl = template(indexTmpl, { imports: { '_': _ } });
-
 
 function clean(callback) {
   console.log('Emptying dist directory...');
@@ -25,24 +19,28 @@ function clean(callback) {
   });
 }
 
+function readTemplate(templatePath, callback) {
+  fs.readFile(templatePath, (err, templateContents) => {
+    callback(template(templateContents, { imports: { '_': _ }}));
+  });
+}
+
 function readSvgFile(unicode, callback) {
   fs.readFile('./node_modules/emojione/assets/svg/' + unicode + '.svg', (err, data) => {
     // if err file does not exist
     if (err) return;
-    callback(data.toString());
-  });
-}
-
-function createCategoryDir(categoryName) {
-  fs.mkdir('./dist/' + categoryName, (err) => {
-    // if err, consider directory exists
-    if (err) return;
+    svgToJSX(data, function(error, jsx) {
+      var toJS = babel.transform(jsx, { presets: ['react'] }).code;
+      callback(toJS);
+    });
   });
 }
 
 function writeReactComponent(data, filePath) {
-  fs.writeFile(filePath, compiledComponentTmpl(data), (err) => {
-    if (err) throw err;
+  readTemplate('./templates/component.txt', (tmpl) => {
+    fs.writeFile(filePath, tmpl(data), (err) => {
+      if (err) throw err;
+    });
   });
 }
 
@@ -55,9 +53,10 @@ function pushToIndexArray(emojiName, filePath) {
 
 function writeIndexFile() {
   console.log('Creating index file...');
-  fs.writeFile('./dist/index.js', compiledIndexTmpl({ emojis: indexArr }), (err) => {
-    if (err) throw err;
-    console.log('Done!');
+  readTemplate('./templates/index.txt', (tmpl) => {
+    fs.writeFile('./dist/index.js', tmpl({ emojis: indexArr }), (err) => {
+      if (err) throw err;
+    });
   });
 }
 
@@ -66,17 +65,14 @@ function generateModule() {
   _.forEach(emojis, function(emoji){
     var SVGFile;
     var CompiledReactComponent;
-    var emojiName = emoji.shortname.split(':')[1];
-    var filePath = './dist/' + path.join(emoji.category, emojiName) + '.js';
-    var relativePath = './' + path.join(emoji.category, emojiName) + '.js';
-
-    createCategoryDir(emoji.category);
+    var emojiName = snakeCase(emoji.shortname.split(':')[1]);
+    var filePath = './dist/' + emojiName + '.js';
+    var relativePath = './' + emojiName + '.js';
 
     readSvgFile(emoji.unicode, (data) => {
       writeReactComponent({ name: emojiName, contents: data }, filePath);
+      pushToIndexArray(emojiName, relativePath);
     });
-
-    pushToIndexArray(emojiName, relativePath);
 
   });
 

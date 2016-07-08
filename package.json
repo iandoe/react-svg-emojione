@@ -23,9 +23,12 @@
     "react": "^15.2.0"
   },
   "devDependencies": {
+    "babel-core": "^6.10.4",
+    "babel-preset-react": "^6.11.1",
     "change-case": "^3.0.0",
     "emojione": "^2.2.5",
     "lodash": "^4.13.1",
-    "rimraf": "^2.5.3"
+    "rimraf": "^2.5.3",
+    "svg-to-jsx": "0.0.20"
   }
 }
