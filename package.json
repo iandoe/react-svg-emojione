@@ -1,6 +1,6 @@
 {
   "name": "react-svg-emojione",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Emojione as a collection of React SVG components",
   "main": "index.js",
   "scripts": {
@@ -15,9 +15,9 @@
   ],
   "author": "wilhearts",
   "license": "MIT",
-  "repository" : {
-    "type" : "git",
-    "url" : "iandoe/react-svg-emojione"
+  "repository": {
+    "type": "git",
+    "url": "iandoe/react-svg-emojione"
   },
   "dependencies": {
     "react": "^15.2.0"
