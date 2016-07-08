@@ -15,6 +15,10 @@
   ],
   "author": "wilhearts",
   "license": "MIT",
+  "repository" : {
+    "type" : "git",
+    "url" : "iandoe/react-svg-emojione"
+  },
   "dependencies": {
     "react": "^15.2.0"
   },
