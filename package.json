@@ -1,5 +1,5 @@
 {
-  "name": "react-emojione",
+  "name": "react-svg-emojione",
   "version": "1.0.0",
   "description": "Emojione as a collection of React SVG components",
   "main": "index.js",
@@ -13,7 +13,7 @@
     "emoji",
     "svg"
   ],
-  "author": "Guillaume Picard <wilhearts@gmail.com>",
+  "author": "wilhearts",
   "license": "MIT",
   "dependencies": {
     "react": "^15.2.0"
