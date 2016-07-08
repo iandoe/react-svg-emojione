@@ -1,16 +1,27 @@
 {
   "name": "react-emojione",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Emojione as a collection of React SVG components",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "node build.js"
   },
   "keywords": [
     "react",
     "emojione",
+    "component",
+    "emoji",
     "svg"
   ],
-  "author": "Guillaume Picard",
-  "license": "MIT"
+  "author": "Guillaume Picard <wilhearts@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^15.2.0"
+  },
+  "devDependencies": {
+    "change-case": "^3.0.0",
+    "emojione": "^2.2.5",
+    "lodash": "^4.13.1",
+    "rimraf": "^2.5.3"
+  }
 }
