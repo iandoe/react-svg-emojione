@@ -7,17 +7,17 @@ module.exports = {
   
     "grinning": require("./grinning.js"),
   
+    "joy": require("./joy.js"),
+  
     "grimacing": require("./grimacing.js"),
   
     "grin": require("./grin.js"),
   
-    "joy": require("./joy.js"),
-  
     "smiley": require("./smiley.js"),
   
-    "smile": require("./smile.js"),
-  
     "sweat_smile": require("./sweat_smile.js"),
+  
+    "smile": require("./smile.js"),
   
     "laughing": require("./laughing.js"),
   
@@ -31,13 +31,11 @@ module.exports = {
   
     "upside_down": require("./upside_down.js"),
   
-    "relaxed": require("./relaxed.js"),
+    "heart_eyes": require("./heart_eyes.js"),
   
     "yum": require("./yum.js"),
   
-    "relieved": require("./relieved.js"),
-  
-    "heart_eyes": require("./heart_eyes.js"),
+    "relaxed": require("./relaxed.js"),
   
     "kissing_heart": require("./kissing_heart.js"),
   
@@ -51,6 +49,8 @@ module.exports = {
   
     "stuck_out_tongue_closed_eyes": require("./stuck_out_tongue_closed_eyes.js"),
   
+    "relieved": require("./relieved.js"),
+  
     "stuck_out_tongue": require("./stuck_out_tongue.js"),
   
     "money_mouth": require("./money_mouth.js"),
@@ -61,8 +61,6 @@ module.exports = {
   
     "hugging": require("./hugging.js"),
   
-    "smirk": require("./smirk.js"),
-  
     "no_mouth": require("./no_mouth.js"),
   
     "neutral_face": require("./neutral_face.js"),
@@ -71,15 +69,17 @@ module.exports = {
   
     "unamused": require("./unamused.js"),
   
+    "smirk": require("./smirk.js"),
+  
     "rolling_eyes": require("./rolling_eyes.js"),
   
     "thinking": require("./thinking.js"),
   
     "flushed": require("./flushed.js"),
   
-    "disappointed": require("./disappointed.js"),
-  
     "worried": require("./worried.js"),
+  
+    "disappointed": require("./disappointed.js"),
   
     "angry": require("./angry.js"),
   
@@ -107,33 +107,33 @@ module.exports = {
   
     "scream": require("./scream.js"),
   
-    "fearful": require("./fearful.js"),
-  
     "cold_sweat": require("./cold_sweat.js"),
   
-    "hushed": require("./hushed.js"),
+    "fearful": require("./fearful.js"),
   
-    "frowning": require("./frowning.js"),
+    "hushed": require("./hushed.js"),
   
     "anguished": require("./anguished.js"),
   
     "cry": require("./cry.js"),
   
+    "frowning": require("./frowning.js"),
+  
     "disappointed_relieved": require("./disappointed_relieved.js"),
   
     "sleepy": require("./sleepy.js"),
   
-    "sweat": require("./sweat.js"),
-  
     "sob": require("./sob.js"),
+  
+    "sweat": require("./sweat.js"),
   
     "dizzy_face": require("./dizzy_face.js"),
   
     "astonished": require("./astonished.js"),
   
-    "zipper_mouth": require("./zipper_mouth.js"),
-  
     "mask": require("./mask.js"),
+  
+    "zipper_mouth": require("./zipper_mouth.js"),
   
     "thermometer_face": require("./thermometer_face.js"),
   
@@ -143,19 +143,19 @@ module.exports = {
   
     "zzz": require("./zzz.js"),
   
-    "poop": require("./poop.js"),
-  
     "smiling_imp": require("./smiling_imp.js"),
+  
+    "poop": require("./poop.js"),
   
     "imp": require("./imp.js"),
   
     "japanese_ogre": require("./japanese_ogre.js"),
   
-    "japanese_goblin": require("./japanese_goblin.js"),
-  
     "skull": require("./skull.js"),
   
     "ghost": require("./ghost.js"),
+  
+    "japanese_goblin": require("./japanese_goblin.js"),
   
     "alien": require("./alien.js"),
   
@@ -183,11 +183,11 @@ module.exports = {
   
     "clap": require("./clap.js"),
   
-    "wave": require("./wave.js"),
+    "thumbsdown": require("./thumbsdown.js"),
   
     "thumbsup": require("./thumbsup.js"),
   
-    "thumbsdown": require("./thumbsdown.js"),
+    "wave": require("./wave.js"),
   
     "punch": require("./punch.js"),
   
@@ -197,23 +197,23 @@ module.exports = {
   
     "ok_hand": require("./ok_hand.js"),
   
-    "raised_hand": require("./raised_hand.js"),
-  
     "open_hands": require("./open_hands.js"),
+  
+    "raised_hand": require("./raised_hand.js"),
   
     "muscle": require("./muscle.js"),
   
     "pray": require("./pray.js"),
   
-    "point_up": require("./point_up.js"),
-  
     "point_up_2": require("./point_up_2.js"),
   
-    "point_down": require("./point_down.js"),
+    "point_up": require("./point_up.js"),
   
     "point_left": require("./point_left.js"),
   
     "point_right": require("./point_right.js"),
+  
+    "point_down": require("./point_down.js"),
   
     "middle_finger": require("./middle_finger.js"),
   
@@ -225,15 +225,15 @@ module.exports = {
   
     "writing_hand": require("./writing_hand.js"),
   
-    "nail_care": require("./nail_care.js"),
-  
     "lips": require("./lips.js"),
   
     "tongue": require("./tongue.js"),
   
-    "ear": require("./ear.js"),
+    "nail_care": require("./nail_care.js"),
   
     "nose": require("./nose.js"),
+  
+    "ear": require("./ear.js"),
   
     "eye": require("./eye.js"),
   
@@ -255,11 +255,11 @@ module.exports = {
   
     "woman": require("./woman.js"),
   
-    "person_with_blond_hair": require("./person_with_blond_hair.js"),
-  
     "older_man": require("./older_man.js"),
   
     "older_woman": require("./older_woman.js"),
+  
+    "person_with_blond_hair": require("./person_with_blond_hair.js"),
   
     "man_with_gua_pi_mao": require("./man_with_gua_pi_mao.js"),
   
@@ -267,9 +267,9 @@ module.exports = {
   
     "cop": require("./cop.js"),
   
-    "construction_worker": require("./construction_worker.js"),
-  
     "guardsman": require("./guardsman.js"),
+  
+    "construction_worker": require("./construction_worker.js"),
   
     "spy": require("./spy.js"),
   
@@ -279,9 +279,9 @@ module.exports = {
   
     "princess": require("./princess.js"),
   
-    "bride_with_veil": require("./bride_with_veil.js"),
-  
     "walking": require("./walking.js"),
+  
+    "bride_with_veil": require("./bride_with_veil.js"),
   
     "runner": require("./runner.js"),
   
@@ -293,19 +293,19 @@ module.exports = {
   
     "two_men_holding_hands": require("./two_men_holding_hands.js"),
   
-    "two_women_holding_hands": require("./two_women_holding_hands.js"),
-  
     "bow": require("./bow.js"),
   
-    "information_desk_person": require("./information_desk_person.js"),
-  
-    "no_good": require("./no_good.js"),
+    "two_women_holding_hands": require("./two_women_holding_hands.js"),
   
     "ok_woman": require("./ok_woman.js"),
   
     "raising_hand": require("./raising_hand.js"),
   
+    "information_desk_person": require("./information_desk_person.js"),
+  
     "person_with_pouting_face": require("./person_with_pouting_face.js"),
+  
+    "no_good": require("./no_good.js"),
   
     "person_frowning": require("./person_frowning.js"),
   
@@ -313,9 +313,9 @@ module.exports = {
   
     "massage": require("./massage.js"),
   
-    "couple_with_heart": require("./couple_with_heart.js"),
-  
     "couple_ww": require("./couple_ww.js"),
+  
+    "couple_with_heart": require("./couple_with_heart.js"),
   
     "couple_mm": require("./couple_mm.js"),
   
@@ -335,9 +335,9 @@ module.exports = {
   
     "family_mwgg": require("./family_mwgg.js"),
   
-    "family_wwb": require("./family_wwb.js"),
-  
     "family_wwg": require("./family_wwg.js"),
+  
+    "family_wwb": require("./family_wwb.js"),
   
     "family_wwgb": require("./family_wwgb.js"),
   
@@ -345,23 +345,23 @@ module.exports = {
   
     "family_wwgg": require("./family_wwgg.js"),
   
-    "family_mmb": require("./family_mmb.js"),
-  
     "family_mmg": require("./family_mmg.js"),
+  
+    "family_mmb": require("./family_mmb.js"),
   
     "family_mmgb": require("./family_mmgb.js"),
   
-    "family_mmbb": require("./family_mmbb.js"),
-  
     "family_mmgg": require("./family_mmgg.js"),
+  
+    "family_mmbb": require("./family_mmbb.js"),
   
     "womans_clothes": require("./womans_clothes.js"),
   
     "shirt": require("./shirt.js"),
   
-    "jeans": require("./jeans.js"),
-  
     "necktie": require("./necktie.js"),
+  
+    "jeans": require("./jeans.js"),
   
     "dress": require("./dress.js"),
   
@@ -391,33 +391,33 @@ module.exports = {
   
     "helmet_with_cross": require("./helmet_with_cross.js"),
   
-    "mortar_board": require("./mortar_board.js"),
-  
     "crown": require("./crown.js"),
+  
+    "mortar_board": require("./mortar_board.js"),
   
     "school_satchel": require("./school_satchel.js"),
   
     "pouch": require("./pouch.js"),
   
-    "purse": require("./purse.js"),
-  
     "handbag": require("./handbag.js"),
   
-    "briefcase": require("./briefcase.js"),
+    "purse": require("./purse.js"),
   
     "eyeglasses": require("./eyeglasses.js"),
   
-    "dark_sunglasses": require("./dark_sunglasses.js"),
+    "briefcase": require("./briefcase.js"),
   
-    "closed_umbrella": require("./closed_umbrella.js"),
+    "dark_sunglasses": require("./dark_sunglasses.js"),
   
     "ring": require("./ring.js"),
   
-    "dog": require("./dog.js"),
+    "closed_umbrella": require("./closed_umbrella.js"),
+  
+    "mouse": require("./mouse.js"),
   
     "cat": require("./cat.js"),
   
-    "mouse": require("./mouse.js"),
+    "dog": require("./dog.js"),
   
     "hamster": require("./hamster.js"),
   
@@ -433,11 +433,11 @@ module.exports = {
   
     "lion_face": require("./lion_face.js"),
   
+    "pig_nose": require("./pig_nose.js"),
+  
     "cow": require("./cow.js"),
   
     "pig": require("./pig.js"),
-  
-    "pig_nose": require("./pig_nose.js"),
   
     "frog": require("./frog.js"),
   
@@ -445,19 +445,19 @@ module.exports = {
   
     "monkey_face": require("./monkey_face.js"),
   
-    "see_no_evil": require("./see_no_evil.js"),
-  
     "hear_no_evil": require("./hear_no_evil.js"),
   
-    "speak_no_evil": require("./speak_no_evil.js"),
+    "see_no_evil": require("./see_no_evil.js"),
   
     "monkey": require("./monkey.js"),
   
     "chicken": require("./chicken.js"),
   
-    "penguin": require("./penguin.js"),
-  
     "bird": require("./bird.js"),
+  
+    "speak_no_evil": require("./speak_no_evil.js"),
+  
+    "penguin": require("./penguin.js"),
   
     "baby_chick": require("./baby_chick.js"),
   
@@ -469,33 +469,33 @@ module.exports = {
   
     "boar": require("./boar.js"),
   
-    "horse": require("./horse.js"),
-  
     "unicorn": require("./unicorn.js"),
   
-    "bee": require("./bee.js"),
-  
     "bug": require("./bug.js"),
+  
+    "bee": require("./bee.js"),
   
     "snail": require("./snail.js"),
   
     "beetle": require("./beetle.js"),
   
-    "ant": require("./ant.js"),
+    "horse": require("./horse.js"),
   
     "spider": require("./spider.js"),
   
     "scorpion": require("./scorpion.js"),
   
-    "crab": require("./crab.js"),
-  
     "snake": require("./snake.js"),
+  
+    "ant": require("./ant.js"),
+  
+    "crab": require("./crab.js"),
   
     "turtle": require("./turtle.js"),
   
-    "tropical_fish": require("./tropical_fish.js"),
-  
     "fish": require("./fish.js"),
+  
+    "tropical_fish": require("./tropical_fish.js"),
   
     "blowfish": require("./blowfish.js"),
   
@@ -505,9 +505,9 @@ module.exports = {
   
     "whale2": require("./whale2.js"),
   
-    "crocodile": require("./crocodile.js"),
-  
     "leopard": require("./leopard.js"),
+  
+    "crocodile": require("./crocodile.js"),
   
     "tiger2": require("./tiger2.js"),
   
@@ -515,17 +515,17 @@ module.exports = {
   
     "ox": require("./ox.js"),
   
-    "cow2": require("./cow2.js"),
-  
     "dromedary_camel": require("./dromedary_camel.js"),
+  
+    "cow2": require("./cow2.js"),
   
     "camel": require("./camel.js"),
   
     "elephant": require("./elephant.js"),
   
-    "goat": require("./goat.js"),
-  
     "ram": require("./ram.js"),
+  
+    "goat": require("./goat.js"),
   
     "sheep": require("./sheep.js"),
   
@@ -535,9 +535,9 @@ module.exports = {
   
     "rat": require("./rat.js"),
   
-    "mouse2": require("./mouse2.js"),
-  
     "rooster": require("./rooster.js"),
+  
+    "mouse2": require("./mouse2.js"),
   
     "turkey": require("./turkey.js"),
   
@@ -545,11 +545,11 @@ module.exports = {
   
     "dog2": require("./dog2.js"),
   
-    "poodle": require("./poodle.js"),
-  
     "cat2": require("./cat2.js"),
   
     "rabbit2": require("./rabbit2.js"),
+  
+    "poodle": require("./poodle.js"),
   
     "chipmunk": require("./chipmunk.js"),
   
@@ -561,31 +561,31 @@ module.exports = {
   
     "cactus": require("./cactus.js"),
   
-    "christmas_tree": require("./christmas_tree.js"),
-  
-    "evergreen_tree": require("./evergreen_tree.js"),
-  
     "deciduous_tree": require("./deciduous_tree.js"),
   
     "palm_tree": require("./palm_tree.js"),
+  
+    "evergreen_tree": require("./evergreen_tree.js"),
+  
+    "christmas_tree": require("./christmas_tree.js"),
   
     "seedling": require("./seedling.js"),
   
     "herb": require("./herb.js"),
   
-    "shamrock": require("./shamrock.js"),
-  
     "four_leaf_clover": require("./four_leaf_clover.js"),
+  
+    "shamrock": require("./shamrock.js"),
   
     "bamboo": require("./bamboo.js"),
   
     "tanabata_tree": require("./tanabata_tree.js"),
   
+    "maple_leaf": require("./maple_leaf.js"),
+  
     "leaves": require("./leaves.js"),
   
     "fallen_leaf": require("./fallen_leaf.js"),
-  
-    "maple_leaf": require("./maple_leaf.js"),
   
     "ear_of_rice": require("./ear_of_rice.js"),
   
@@ -597,9 +597,9 @@ module.exports = {
   
     "tulip": require("./tulip.js"),
   
-    "blossom": require("./blossom.js"),
-  
     "cherry_blossom": require("./cherry_blossom.js"),
+  
+    "blossom": require("./blossom.js"),
   
     "bouquet": require("./bouquet.js"),
   
@@ -623,17 +623,17 @@ module.exports = {
   
     "waning_gibbous_moon": require("./waning_gibbous_moon.js"),
   
+    "new_moon": require("./new_moon.js"),
+  
     "last_quarter_moon": require("./last_quarter_moon.js"),
   
     "waning_crescent_moon": require("./waning_crescent_moon.js"),
   
-    "new_moon": require("./new_moon.js"),
-  
     "waxing_crescent_moon": require("./waxing_crescent_moon.js"),
   
-    "first_quarter_moon": require("./first_quarter_moon.js"),
-  
     "waxing_gibbous_moon": require("./waxing_gibbous_moon.js"),
+  
+    "first_quarter_moon": require("./first_quarter_moon.js"),
   
     "new_moon_with_face": require("./new_moon_with_face.js"),
   
@@ -649,13 +649,13 @@ module.exports = {
   
     "star": require("./star.js"),
   
-    "star2": require("./star2.js"),
-  
     "dizzy": require("./dizzy.js"),
   
-    "sparkles": require("./sparkles.js"),
+    "star2": require("./star2.js"),
   
     "comet": require("./comet.js"),
+  
+    "sparkles": require("./sparkles.js"),
   
     "sunny": require("./sunny.js"),
   
@@ -681,9 +681,9 @@ module.exports = {
   
     "boom": require("./boom.js"),
   
-    "snowflake": require("./snowflake.js"),
-  
     "cloud_snow": require("./cloud_snow.js"),
+  
+    "snowflake": require("./snowflake.js"),
   
     "snowman2": require("./snowman2.js"),
   
@@ -691,17 +691,17 @@ module.exports = {
   
     "wind_blowing_face": require("./wind_blowing_face.js"),
   
-    "dash": require("./dash.js"),
-  
     "cloud_tornado": require("./cloud_tornado.js"),
+  
+    "dash": require("./dash.js"),
   
     "fog": require("./fog.js"),
   
     "umbrella2": require("./umbrella2.js"),
   
-    "umbrella": require("./umbrella.js"),
-  
     "droplet": require("./droplet.js"),
+  
+    "umbrella": require("./umbrella.js"),
   
     "sweat_drops": require("./sweat_drops.js"),
   
@@ -709,15 +709,15 @@ module.exports = {
   
     "green_apple": require("./green_apple.js"),
   
-    "apple": require("./apple.js"),
-  
     "pear": require("./pear.js"),
+  
+    "apple": require("./apple.js"),
   
     "tangerine": require("./tangerine.js"),
   
-    "lemon": require("./lemon.js"),
-  
     "banana": require("./banana.js"),
+  
+    "lemon": require("./lemon.js"),
   
     "watermelon": require("./watermelon.js"),
   
@@ -725,13 +725,13 @@ module.exports = {
   
     "strawberry": require("./strawberry.js"),
   
-    "melon": require("./melon.js"),
-  
     "cherries": require("./cherries.js"),
   
-    "peach": require("./peach.js"),
+    "melon": require("./melon.js"),
   
     "pineapple": require("./pineapple.js"),
+  
+    "peach": require("./peach.js"),
   
     "tomato": require("./tomato.js"),
   
@@ -745,45 +745,45 @@ module.exports = {
   
     "honey_pot": require("./honey_pot.js"),
   
-    "bread": require("./bread.js"),
-  
-    "cheese": require("./cheese.js"),
-  
     "poultry_leg": require("./poultry_leg.js"),
+  
+    "bread": require("./bread.js"),
   
     "meat_on_bone": require("./meat_on_bone.js"),
   
-    "fried_shrimp": require("./fried_shrimp.js"),
+    "cheese": require("./cheese.js"),
   
-    "cooking": require("./cooking.js"),
+    "fried_shrimp": require("./fried_shrimp.js"),
   
     "hamburger": require("./hamburger.js"),
   
     "fries": require("./fries.js"),
   
-    "pizza": require("./pizza.js"),
+    "cooking": require("./cooking.js"),
   
     "hotdog": require("./hotdog.js"),
   
-    "spaghetti": require("./spaghetti.js"),
+    "pizza": require("./pizza.js"),
   
     "taco": require("./taco.js"),
   
+    "spaghetti": require("./spaghetti.js"),
+  
     "burrito": require("./burrito.js"),
-  
-    "ramen": require("./ramen.js"),
-  
-    "stew": require("./stew.js"),
   
     "fish_cake": require("./fish_cake.js"),
   
+    "stew": require("./stew.js"),
+  
+    "ramen": require("./ramen.js"),
+  
     "sushi": require("./sushi.js"),
+  
+    "rice_ball": require("./rice_ball.js"),
   
     "bento": require("./bento.js"),
   
     "curry": require("./curry.js"),
-  
-    "rice_ball": require("./rice_ball.js"),
   
     "rice": require("./rice.js"),
   
@@ -791,9 +791,9 @@ module.exports = {
   
     "oden": require("./oden.js"),
   
-    "dango": require("./dango.js"),
-  
     "shaved_ice": require("./shaved_ice.js"),
+  
+    "dango": require("./dango.js"),
   
     "ice_cream": require("./ice_cream.js"),
   
@@ -805,41 +805,41 @@ module.exports = {
   
     "custard": require("./custard.js"),
   
-    "candy": require("./candy.js"),
-  
     "lollipop": require("./lollipop.js"),
+  
+    "candy": require("./candy.js"),
   
     "chocolate_bar": require("./chocolate_bar.js"),
   
-    "popcorn": require("./popcorn.js"),
-  
     "doughnut": require("./doughnut.js"),
+  
+    "popcorn": require("./popcorn.js"),
   
     "cookie": require("./cookie.js"),
   
     "beer": require("./beer.js"),
   
-    "beers": require("./beers.js"),
-  
     "wine_glass": require("./wine_glass.js"),
-  
-    "cocktail": require("./cocktail.js"),
   
     "tropical_drink": require("./tropical_drink.js"),
   
+    "cocktail": require("./cocktail.js"),
+  
+    "beers": require("./beers.js"),
+  
     "champagne": require("./champagne.js"),
   
-    "sake": require("./sake.js"),
-  
     "tea": require("./tea.js"),
+  
+    "sake": require("./sake.js"),
   
     "coffee": require("./coffee.js"),
   
     "baby_bottle": require("./baby_bottle.js"),
   
-    "fork_and_knife": require("./fork_and_knife.js"),
-  
     "fork_knife_plate": require("./fork_knife_plate.js"),
+  
+    "fork_and_knife": require("./fork_and_knife.js"),
   
     "soccer": require("./soccer.js"),
   
@@ -847,11 +847,11 @@ module.exports = {
   
     "football": require("./football.js"),
   
-    "baseball": require("./baseball.js"),
-  
     "tennis": require("./tennis.js"),
   
     "volleyball": require("./volleyball.js"),
+  
+    "baseball": require("./baseball.js"),
   
     "rugby_football": require("./rugby_football.js"),
   
@@ -863,8 +863,6 @@ module.exports = {
   
     "ping_pong": require("./ping_pong.js"),
   
-    "badminton": require("./badminton.js"),
-  
     "hockey": require("./hockey.js"),
   
     "field_hockey": require("./field_hockey.js"),
@@ -873,23 +871,21 @@ module.exports = {
   
     "ski": require("./ski.js"),
   
+    "badminton": require("./badminton.js"),
+  
     "skier": require("./skier.js"),
   
     "snowboarder": require("./snowboarder.js"),
   
     "ice_skate": require("./ice_skate.js"),
   
-    "bow_and_arrow": require("./bow_and_arrow.js"),
-  
     "fishing_pole_and_fish": require("./fishing_pole_and_fish.js"),
   
-    "rowboat": require("./rowboat.js"),
-  
-    "swimmer": require("./swimmer.js"),
-  
-    "surfer": require("./surfer.js"),
+    "bow_and_arrow": require("./bow_and_arrow.js"),
   
     "bath": require("./bath.js"),
+  
+    "surfer": require("./surfer.js"),
   
     "basketball_player": require("./basketball_player.js"),
   
@@ -909,9 +905,9 @@ module.exports = {
   
     "medal": require("./medal.js"),
   
-    "military_medal": require("./military_medal.js"),
-  
     "reminder_ribbon": require("./reminder_ribbon.js"),
+  
+    "military_medal": require("./military_medal.js"),
   
     "rosette": require("./rosette.js"),
   
@@ -921,15 +917,15 @@ module.exports = {
   
     "performing_arts": require("./performing_arts.js"),
   
-    "art": require("./art.js"),
-  
     "circus_tent": require("./circus_tent.js"),
+  
+    "art": require("./art.js"),
   
     "microphone": require("./microphone.js"),
   
-    "headphones": require("./headphones.js"),
-  
     "musical_score": require("./musical_score.js"),
+  
+    "headphones": require("./headphones.js"),
   
     "musical_keyboard": require("./musical_keyboard.js"),
   
@@ -941,19 +937,21 @@ module.exports = {
   
     "violin": require("./violin.js"),
   
-    "clapper": require("./clapper.js"),
-  
     "video_game": require("./video_game.js"),
   
-    "space_invader": require("./space_invader.js"),
+    "clapper": require("./clapper.js"),
   
     "dart": require("./dart.js"),
+  
+    "space_invader": require("./space_invader.js"),
   
     "game_die": require("./game_die.js"),
   
     "slot_machine": require("./slot_machine.js"),
   
-    "bowling": require("./bowling.js"),
+    "swimmer": require("./swimmer.js"),
+  
+    "rowboat": require("./rowboat.js"),
   
     "red_car": require("./red_car.js"),
   
@@ -961,19 +959,17 @@ module.exports = {
   
     "blue_car": require("./blue_car.js"),
   
-    "bus": require("./bus.js"),
+    "bowling": require("./bowling.js"),
   
     "trolleybus": require("./trolleybus.js"),
   
-    "race_car": require("./race_car.js"),
-  
-    "police_car": require("./police_car.js"),
-  
-    "ambulance": require("./ambulance.js"),
+    "bus": require("./bus.js"),
   
     "fire_engine": require("./fire_engine.js"),
   
     "minibus": require("./minibus.js"),
+  
+    "ambulance": require("./ambulance.js"),
   
     "truck": require("./truck.js"),
   
@@ -983,9 +979,9 @@ module.exports = {
   
     "motorcycle": require("./motorcycle.js"),
   
-    "bike": require("./bike.js"),
-  
     "rotating_light": require("./rotating_light.js"),
+  
+    "bike": require("./bike.js"),
   
     "oncoming_police_car": require("./oncoming_police_car.js"),
   
@@ -1001,15 +997,15 @@ module.exports = {
   
     "suspension_railway": require("./suspension_railway.js"),
   
-    "railway_car": require("./railway_car.js"),
-  
     "train": require("./train.js"),
+  
+    "railway_car": require("./railway_car.js"),
   
     "monorail": require("./monorail.js"),
   
-    "bullettrain_side": require("./bullettrain_side.js"),
-  
     "bullettrain_front": require("./bullettrain_front.js"),
+  
+    "bullettrain_side": require("./bullettrain_side.js"),
   
     "light_rail": require("./light_rail.js"),
   
@@ -1021,9 +1017,9 @@ module.exports = {
   
     "metro": require("./metro.js"),
   
-    "tram": require("./tram.js"),
-  
     "station": require("./station.js"),
+  
+    "tram": require("./tram.js"),
   
     "helicopter": require("./helicopter.js"),
   
@@ -1033,21 +1029,25 @@ module.exports = {
   
     "airplane_departure": require("./airplane_departure.js"),
   
+    "race_car": require("./race_car.js"),
+  
     "airplane_arriving": require("./airplane_arriving.js"),
+  
+    "police_car": require("./police_car.js"),
   
     "sailboat": require("./sailboat.js"),
   
-    "motorboat": require("./motorboat.js"),
-  
     "speedboat": require("./speedboat.js"),
   
-    "ferry": require("./ferry.js"),
+    "motorboat": require("./motorboat.js"),
   
     "cruise_ship": require("./cruise_ship.js"),
   
-    "rocket": require("./rocket.js"),
+    "ferry": require("./ferry.js"),
   
     "satellite_orbital": require("./satellite_orbital.js"),
+  
+    "rocket": require("./rocket.js"),
   
     "seat": require("./seat.js"),
   
@@ -1063,21 +1063,19 @@ module.exports = {
   
     "traffic_light": require("./traffic_light.js"),
   
+    "ferris_wheel": require("./ferris_wheel.js"),
+  
     "checkered_flag": require("./checkered_flag.js"),
   
     "ship": require("./ship.js"),
-  
-    "ferris_wheel": require("./ferris_wheel.js"),
   
     "roller_coaster": require("./roller_coaster.js"),
   
     "carousel_horse": require("./carousel_horse.js"),
   
-    "construction_site": require("./construction_site.js"),
-  
-    "foggy": require("./foggy.js"),
-  
     "tokyo_tower": require("./tokyo_tower.js"),
+  
+    "construction_site": require("./construction_site.js"),
   
     "factory": require("./factory.js"),
   
@@ -1085,15 +1083,17 @@ module.exports = {
   
     "rice_scene": require("./rice_scene.js"),
   
-    "mountain": require("./mountain.js"),
-  
     "mountain_snow": require("./mountain_snow.js"),
   
-    "mount_fuji": require("./mount_fuji.js"),
+    "mountain": require("./mountain.js"),
+  
+    "foggy": require("./foggy.js"),
+  
+    "japan": require("./japan.js"),
   
     "volcano": require("./volcano.js"),
   
-    "japan": require("./japan.js"),
+    "mount_fuji": require("./mount_fuji.js"),
   
     "camping": require("./camping.js"),
   
@@ -1103,9 +1103,9 @@ module.exports = {
   
     "motorway": require("./motorway.js"),
   
-    "railway_track": require("./railway_track.js"),
-  
     "sunrise": require("./sunrise.js"),
+  
+    "railway_track": require("./railway_track.js"),
   
     "sunrise_over_mountains": require("./sunrise_over_mountains.js"),
   
@@ -1113,41 +1113,41 @@ module.exports = {
   
     "beach": require("./beach.js"),
   
-    "island": require("./island.js"),
-  
     "city_sunset": require("./city_sunset.js"),
   
     "city_dusk": require("./city_dusk.js"),
+  
+    "island": require("./island.js"),
+  
+    "bridge_at_night": require("./bridge_at_night.js"),
   
     "cityscape": require("./cityscape.js"),
   
     "night_with_stars": require("./night_with_stars.js"),
   
-    "bridge_at_night": require("./bridge_at_night.js"),
-  
     "milky_way": require("./milky_way.js"),
   
     "stars": require("./stars.js"),
   
-    "sparkler": require("./sparkler.js"),
-  
     "fireworks": require("./fireworks.js"),
   
-    "rainbow": require("./rainbow.js"),
+    "sparkler": require("./sparkler.js"),
   
     "homes": require("./homes.js"),
   
-    "european_castle": require("./european_castle.js"),
-  
     "japanese_castle": require("./japanese_castle.js"),
   
+    "rainbow": require("./rainbow.js"),
+  
+    "european_castle": require("./european_castle.js"),
+  
     "stadium": require("./stadium.js"),
+  
+    "house_with_garden": require("./house_with_garden.js"),
   
     "statue_of_liberty": require("./statue_of_liberty.js"),
   
     "house": require("./house.js"),
-  
-    "house_with_garden": require("./house_with_garden.js"),
   
     "house_abandoned": require("./house_abandoned.js"),
   
@@ -1163,33 +1163,33 @@ module.exports = {
   
     "bank": require("./bank.js"),
   
-    "hotel": require("./hotel.js"),
-  
     "convenience_store": require("./convenience_store.js"),
   
     "school": require("./school.js"),
   
-    "love_hotel": require("./love_hotel.js"),
-  
-    "wedding": require("./wedding.js"),
+    "hotel": require("./hotel.js"),
   
     "classical_building": require("./classical_building.js"),
   
-    "church": require("./church.js"),
+    "wedding": require("./wedding.js"),
   
-    "mosque": require("./mosque.js"),
+    "love_hotel": require("./love_hotel.js"),
+  
+    "church": require("./church.js"),
   
     "synagogue": require("./synagogue.js"),
   
     "kaaba": require("./kaaba.js"),
   
-    "shinto_shrine": require("./shinto_shrine.js"),
+    "mosque": require("./mosque.js"),
   
     "watch": require("./watch.js"),
   
     "iphone": require("./iphone.js"),
   
     "calling": require("./calling.js"),
+  
+    "shinto_shrine": require("./shinto_shrine.js"),
   
     "computer": require("./computer.js"),
   
@@ -1217,25 +1217,21 @@ module.exports = {
   
     "vhs": require("./vhs.js"),
   
-    "camera": require("./camera.js"),
-  
     "camera_with_flash": require("./camera_with_flash.js"),
   
     "video_camera": require("./video_camera.js"),
   
-    "movie_camera": require("./movie_camera.js"),
+    "camera": require("./camera.js"),
   
     "projector": require("./projector.js"),
   
+    "movie_camera": require("./movie_camera.js"),
+  
     "film_frames": require("./film_frames.js"),
   
-    "telephone_receiver": require("./telephone_receiver.js"),
-  
-    "telephone": require("./telephone.js"),
+    "fax": require("./fax.js"),
   
     "pager": require("./pager.js"),
-  
-    "fax": require("./fax.js"),
   
     "tv": require("./tv.js"),
   
@@ -1245,9 +1241,9 @@ module.exports = {
   
     "level_slider": require("./level_slider.js"),
   
-    "control_knobs": require("./control_knobs.js"),
-  
     "stopwatch": require("./stopwatch.js"),
+  
+    "control_knobs": require("./control_knobs.js"),
   
     "timer": require("./timer.js"),
   
@@ -1261,9 +1257,9 @@ module.exports = {
   
     "satellite": require("./satellite.js"),
   
-    "battery": require("./battery.js"),
+    "telephone_receiver": require("./telephone_receiver.js"),
   
-    "electric_plug": require("./electric_plug.js"),
+    "telephone": require("./telephone.js"),
   
     "bulb": require("./bulb.js"),
   
@@ -1283,21 +1279,21 @@ module.exports = {
   
     "euro": require("./euro.js"),
   
-    "pound": require("./pound.js"),
-  
     "moneybag": require("./moneybag.js"),
   
-    "credit_card": require("./credit_card.js"),
+    "pound": require("./pound.js"),
   
     "gem": require("./gem.js"),
+  
+    "credit_card": require("./credit_card.js"),
   
     "scales": require("./scales.js"),
   
     "wrench": require("./wrench.js"),
   
-    "hammer": require("./hammer.js"),
-  
     "hammer_pick": require("./hammer_pick.js"),
+  
+    "hammer": require("./hammer.js"),
   
     "tools": require("./tools.js"),
   
@@ -1305,9 +1301,9 @@ module.exports = {
   
     "nut_and_bolt": require("./nut_and_bolt.js"),
   
-    "gear": require("./gear.js"),
-  
     "chains": require("./chains.js"),
+  
+    "gear": require("./gear.js"),
   
     "gun": require("./gun.js"),
   
@@ -1317,9 +1313,9 @@ module.exports = {
   
     "dagger": require("./dagger.js"),
   
-    "crossed_swords": require("./crossed_swords.js"),
-  
     "shield": require("./shield.js"),
+  
+    "crossed_swords": require("./crossed_swords.js"),
   
     "smoking": require("./smoking.js"),
   
@@ -1331,21 +1327,21 @@ module.exports = {
   
     "amphora": require("./amphora.js"),
   
-    "crystal_ball": require("./crystal_ball.js"),
-  
     "prayer_beads": require("./prayer_beads.js"),
+  
+    "crystal_ball": require("./crystal_ball.js"),
   
     "barber": require("./barber.js"),
   
     "alembic": require("./alembic.js"),
   
-    "telescope": require("./telescope.js"),
-  
     "microscope": require("./microscope.js"),
   
-    "hole": require("./hole.js"),
+    "telescope": require("./telescope.js"),
   
     "pill": require("./pill.js"),
+  
+    "hole": require("./hole.js"),
   
     "syringe": require("./syringe.js"),
   
@@ -1357,9 +1353,9 @@ module.exports = {
   
     "toilet": require("./toilet.js"),
   
-    "bathtub": require("./bathtub.js"),
-  
     "shower": require("./shower.js"),
+  
+    "bathtub": require("./bathtub.js"),
   
     "key": require("./key.js"),
   
@@ -1385,9 +1381,9 @@ module.exports = {
   
     "shopping_bags": require("./shopping_bags.js"),
   
-    "balloon": require("./balloon.js"),
-  
     "flags": require("./flags.js"),
+  
+    "balloon": require("./balloon.js"),
   
     "ribbon": require("./ribbon.js"),
   
@@ -1395,15 +1391,15 @@ module.exports = {
   
     "confetti_ball": require("./confetti_ball.js"),
   
-    "tada": require("./tada.js"),
-  
     "dolls": require("./dolls.js"),
+  
+    "tada": require("./tada.js"),
   
     "wind_chime": require("./wind_chime.js"),
   
-    "crossed_flags": require("./crossed_flags.js"),
-  
     "izakaya_lantern": require("./izakaya_lantern.js"),
+  
+    "crossed_flags": require("./crossed_flags.js"),
   
     "envelope": require("./envelope.js"),
   
@@ -1411,9 +1407,9 @@ module.exports = {
   
     "incoming_envelope": require("./incoming_envelope.js"),
   
-    "e_mail": require("./e_mail.js"),
-  
     "love_letter": require("./love_letter.js"),
+  
+    "e_mail": require("./e_mail.js"),
   
     "postbox": require("./postbox.js"),
   
@@ -1425,9 +1421,9 @@ module.exports = {
   
     "mailbox_with_no_mail": require("./mailbox_with_no_mail.js"),
   
-    "package": require("./package.js"),
-  
     "postal_horn": require("./postal_horn.js"),
+  
+    "package": require("./package.js"),
   
     "inbox_tray": require("./inbox_tray.js"),
   
@@ -1439,9 +1435,13 @@ module.exports = {
   
     "bookmark_tabs": require("./bookmark_tabs.js"),
   
+    "chart_with_upwards_trend": require("./chart_with_upwards_trend.js"),
+  
     "bar_chart": require("./bar_chart.js"),
   
-    "chart_with_upwards_trend": require("./chart_with_upwards_trend.js"),
+    "electric_plug": require("./electric_plug.js"),
+  
+    "battery": require("./battery.js"),
   
     "chart_with_downwards_trend": require("./chart_with_downwards_trend.js"),
   
@@ -1481,9 +1481,9 @@ module.exports = {
   
     "green_book": require("./green_book.js"),
   
-    "blue_book": require("./blue_book.js"),
-  
     "orange_book": require("./orange_book.js"),
+  
+    "blue_book": require("./blue_book.js"),
   
     "notebook_with_decorative_cover": require("./notebook_with_decorative_cover.js"),
   
@@ -1491,9 +1491,9 @@ module.exports = {
   
     "books": require("./books.js"),
   
-    "book": require("./book.js"),
-  
     "link": require("./link.js"),
+  
+    "book": require("./book.js"),
   
     "paperclip": require("./paperclip.js"),
   
@@ -1505,31 +1505,31 @@ module.exports = {
   
     "straight_ruler": require("./straight_ruler.js"),
   
+    "triangular_flag_on_post": require("./triangular_flag_on_post.js"),
+  
     "pushpin": require("./pushpin.js"),
   
     "round_pushpin": require("./round_pushpin.js"),
-  
-    "triangular_flag_on_post": require("./triangular_flag_on_post.js"),
   
     "flag_white": require("./flag_white.js"),
   
     "flag_black": require("./flag_black.js"),
   
-    "closed_lock_with_key": require("./closed_lock_with_key.js"),
-  
     "lock": require("./lock.js"),
+  
+    "closed_lock_with_key": require("./closed_lock_with_key.js"),
   
     "unlock": require("./unlock.js"),
   
     "lock_with_ink_pen": require("./lock_with_ink_pen.js"),
   
-    "pen_ballpoint": require("./pen_ballpoint.js"),
-  
     "pen_fountain": require("./pen_fountain.js"),
   
-    "black_nib": require("./black_nib.js"),
+    "pen_ballpoint": require("./pen_ballpoint.js"),
   
     "pencil": require("./pencil.js"),
+  
+    "black_nib": require("./black_nib.js"),
   
     "pencil2": require("./pencil2.js"),
   
@@ -1565,27 +1565,27 @@ module.exports = {
   
     "sparkling_heart": require("./sparkling_heart.js"),
   
-    "cupid": require("./cupid.js"),
-  
     "gift_heart": require("./gift_heart.js"),
   
-    "heart_decoration": require("./heart_decoration.js"),
+    "cupid": require("./cupid.js"),
   
     "peace": require("./peace.js"),
   
-    "cross": require("./cross.js"),
+    "heart_decoration": require("./heart_decoration.js"),
   
-    "wheel_of_dharma": require("./wheel_of_dharma.js"),
+    "cross": require("./cross.js"),
   
     "star_and_crescent": require("./star_and_crescent.js"),
   
-    "star_of_david": require("./star_of_david.js"),
+    "six_pointed_star": require("./six_pointed_star.js"),
+  
+    "wheel_of_dharma": require("./wheel_of_dharma.js"),
   
     "om_symbol": require("./om_symbol.js"),
   
-    "six_pointed_star": require("./six_pointed_star.js"),
-  
     "menorah": require("./menorah.js"),
+  
+    "star_of_david": require("./star_of_david.js"),
   
     "yin_yang": require("./yin_yang.js"),
   
@@ -1611,9 +1611,9 @@ module.exports = {
   
     "scorpius": require("./scorpius.js"),
   
-    "sagittarius": require("./sagittarius.js"),
-  
     "capricorn": require("./capricorn.js"),
+  
+    "sagittarius": require("./sagittarius.js"),
   
     "aquarius": require("./aquarius.js"),
   
@@ -1625,19 +1625,17 @@ module.exports = {
   
     "u7a7a": require("./u7a7a.js"),
   
-    "u5272": require("./u5272.js"),
-  
     "radioactive": require("./radioactive.js"),
   
     "biohazard": require("./biohazard.js"),
   
     "mobile_phone_off": require("./mobile_phone_off.js"),
   
-    "vibration_mode": require("./vibration_mode.js"),
-  
     "u6709": require("./u6709.js"),
   
     "u7121": require("./u7121.js"),
+  
+    "vibration_mode": require("./vibration_mode.js"),
   
     "u7533": require("./u7533.js"),
   
@@ -1645,15 +1643,15 @@ module.exports = {
   
     "u6708": require("./u6708.js"),
   
-    "eight_pointed_black_star": require("./eight_pointed_black_star.js"),
+    "u5272": require("./u5272.js"),
   
-    "vs": require("./vs.js"),
+    "eight_pointed_black_star": require("./eight_pointed_black_star.js"),
   
     "accept": require("./accept.js"),
   
     "white_flower": require("./white_flower.js"),
   
-    "ideograph_advantage": require("./ideograph_advantage.js"),
+    "vs": require("./vs.js"),
   
     "secret": require("./secret.js"),
   
@@ -1671,31 +1669,33 @@ module.exports = {
   
     "ab": require("./ab.js"),
   
-    "cl": require("./cl.js"),
-  
     "o2": require("./o2.js"),
+  
+    "cl": require("./cl.js"),
   
     "sos": require("./sos.js"),
   
-    "no_entry": require("./no_entry.js"),
-  
     "name_badge": require("./name_badge.js"),
   
-    "x": require("./x.js"),
+    "no_entry": require("./no_entry.js"),
   
     "no_entry_sign": require("./no_entry_sign.js"),
   
-    "o": require("./o.js"),
+    "ideograph_advantage": require("./ideograph_advantage.js"),
+  
+    "x": require("./x.js"),
   
     "anger": require("./anger.js"),
   
     "hotsprings": require("./hotsprings.js"),
   
-    "no_pedestrians": require("./no_pedestrians.js"),
+    "o": require("./o.js"),
   
     "do_not_litter": require("./do_not_litter.js"),
   
     "no_bicycles": require("./no_bicycles.js"),
+  
+    "no_pedestrians": require("./no_pedestrians.js"),
   
     "non_potable_water": require("./non_potable_water.js"),
   
@@ -1713,9 +1713,9 @@ module.exports = {
   
     "bangbang": require("./bangbang.js"),
   
-    "interrobang": require("./interrobang.js"),
-  
     "low_brightness": require("./low_brightness.js"),
+  
+    "interrobang": require("./interrobang.js"),
   
     "high_brightness": require("./high_brightness.js"),
   
@@ -1725,21 +1725,21 @@ module.exports = {
   
     "part_alternation_mark": require("./part_alternation_mark.js"),
   
-    "children_crossing": require("./children_crossing.js"),
-  
     "warning": require("./warning.js"),
   
     "beginner": require("./beginner.js"),
   
-    "recycle": require("./recycle.js"),
+    "children_crossing": require("./children_crossing.js"),
   
     "u6307": require("./u6307.js"),
   
-    "eight_spoked_asterisk": require("./eight_spoked_asterisk.js"),
+    "recycle": require("./recycle.js"),
   
     "chart": require("./chart.js"),
   
     "sparkle": require("./sparkle.js"),
+  
+    "eight_spoked_asterisk": require("./eight_spoked_asterisk.js"),
   
     "negative_squared_cross_mark": require("./negative_squared_cross_mark.js"),
   
@@ -1749,13 +1749,13 @@ module.exports = {
   
     "cyclone": require("./cyclone.js"),
   
-    "loop": require("./loop.js"),
-  
     "globe_with_meridians": require("./globe_with_meridians.js"),
   
-    "m": require("./m.js"),
+    "loop": require("./loop.js"),
   
     "atm": require("./atm.js"),
+  
+    "m": require("./m.js"),
   
     "sa": require("./sa.js"),
   
@@ -1763,13 +1763,13 @@ module.exports = {
   
     "customs": require("./customs.js"),
   
-    "baggage_claim": require("./baggage_claim.js"),
-  
     "left_luggage": require("./left_luggage.js"),
   
-    "wheelchair": require("./wheelchair.js"),
+    "baggage_claim": require("./baggage_claim.js"),
   
     "no_smoking": require("./no_smoking.js"),
+  
+    "wheelchair": require("./wheelchair.js"),
   
     "wc": require("./wc.js"),
   
@@ -1777,9 +1777,9 @@ module.exports = {
   
     "potable_water": require("./potable_water.js"),
   
-    "mens": require("./mens.js"),
-  
     "womens": require("./womens.js"),
+  
+    "mens": require("./mens.js"),
   
     "baby_symbol": require("./baby_symbol.js"),
   
@@ -1797,9 +1797,9 @@ module.exports = {
   
     "ok": require("./ok.js"),
   
-    "up": require("./up.js"),
-  
     "cool": require("./cool.js"),
+  
+    "up": require("./up.js"),
   
     "new": require("./new.js"),
   
@@ -1815,11 +1815,11 @@ module.exports = {
   
     "four": require("./four.js"),
   
+    "seven": require("./seven.js"),
+  
     "five": require("./five.js"),
   
     "six": require("./six.js"),
-  
-    "seven": require("./seven.js"),
   
     "eight": require("./eight.js"),
   
@@ -1829,9 +1829,9 @@ module.exports = {
   
     "arrow_forward": require("./arrow_forward.js"),
   
-    "pause_button": require("./pause_button.js"),
-  
     "play_pause": require("./play_pause.js"),
+  
+    "pause_button": require("./pause_button.js"),
   
     "stop_button": require("./stop_button.js"),
   
@@ -1847,19 +1847,19 @@ module.exports = {
   
     "twisted_rightwards_arrows": require("./twisted_rightwards_arrows.js"),
   
-    "repeat": require("./repeat.js"),
-  
     "repeat_one": require("./repeat_one.js"),
   
-    "arrow_backward": require("./arrow_backward.js"),
+    "repeat": require("./repeat.js"),
   
     "arrow_up_small": require("./arrow_up_small.js"),
   
+    "arrow_backward": require("./arrow_backward.js"),
+  
     "arrow_down_small": require("./arrow_down_small.js"),
   
-    "arrow_double_up": require("./arrow_double_up.js"),
-  
     "arrow_double_down": require("./arrow_double_down.js"),
+  
+    "arrow_double_up": require("./arrow_double_up.js"),
   
     "arrow_right": require("./arrow_right.js"),
   
@@ -1885,9 +1885,9 @@ module.exports = {
   
     "arrow_right_hook": require("./arrow_right_hook.js"),
   
-    "leftwards_arrow_with_hook": require("./leftwards_arrow_with_hook.js"),
-  
     "arrow_heading_up": require("./arrow_heading_up.js"),
+  
+    "leftwards_arrow_with_hook": require("./leftwards_arrow_with_hook.js"),
   
     "arrow_heading_down": require("./arrow_heading_down.js"),
   
@@ -1895,9 +1895,9 @@ module.exports = {
   
     "asterisk": require("./asterisk.js"),
   
-    "information_source": require("./information_source.js"),
-  
     "abc": require("./abc.js"),
+  
+    "information_source": require("./information_source.js"),
   
     "abcd": require("./abcd.js"),
   
@@ -1905,23 +1905,23 @@ module.exports = {
   
     "symbols": require("./symbols.js"),
   
-    "musical_note": require("./musical_note.js"),
-  
-    "notes": require("./notes.js"),
-  
     "wavy_dash": require("./wavy_dash.js"),
   
+    "musical_note": require("./musical_note.js"),
+  
     "curly_loop": require("./curly_loop.js"),
+  
+    "notes": require("./notes.js"),
   
     "heavy_check_mark": require("./heavy_check_mark.js"),
   
     "arrows_clockwise": require("./arrows_clockwise.js"),
   
+    "heavy_division_sign": require("./heavy_division_sign.js"),
+  
     "heavy_plus_sign": require("./heavy_plus_sign.js"),
   
     "heavy_minus_sign": require("./heavy_minus_sign.js"),
-  
-    "heavy_division_sign": require("./heavy_division_sign.js"),
   
     "heavy_multiplication_x": require("./heavy_multiplication_x.js"),
   
@@ -1933,9 +1933,9 @@ module.exports = {
   
     "registered": require("./registered.js"),
   
-    "tm": require("./tm.js"),
-  
     "end": require("./end.js"),
+  
+    "tm": require("./tm.js"),
   
     "back": require("./back.js"),
   
@@ -1945,9 +1945,9 @@ module.exports = {
   
     "soon": require("./soon.js"),
   
-    "ballot_box_with_check": require("./ballot_box_with_check.js"),
-  
     "radio_button": require("./radio_button.js"),
+  
+    "ballot_box_with_check": require("./ballot_box_with_check.js"),
   
     "white_circle": require("./white_circle.js"),
   
@@ -1955,9 +1955,9 @@ module.exports = {
   
     "red_circle": require("./red_circle.js"),
   
-    "large_blue_circle": require("./large_blue_circle.js"),
-  
     "small_orange_diamond": require("./small_orange_diamond.js"),
+  
+    "large_blue_circle": require("./large_blue_circle.js"),
   
     "small_blue_diamond": require("./small_blue_diamond.js"),
   
@@ -1973,27 +1973,27 @@ module.exports = {
   
     "black_large_square": require("./black_large_square.js"),
   
-    "white_large_square": require("./white_large_square.js"),
-  
     "small_red_triangle_down": require("./small_red_triangle_down.js"),
+  
+    "white_large_square": require("./white_large_square.js"),
   
     "black_medium_square": require("./black_medium_square.js"),
   
-    "white_medium_square": require("./white_medium_square.js"),
-  
     "black_medium_small_square": require("./black_medium_small_square.js"),
+  
+    "white_medium_square": require("./white_medium_square.js"),
   
     "white_medium_small_square": require("./white_medium_small_square.js"),
   
+    "white_square_button": require("./white_square_button.js"),
+  
     "black_square_button": require("./black_square_button.js"),
   
-    "white_square_button": require("./white_square_button.js"),
+    "loud_sound": require("./loud_sound.js"),
   
     "speaker": require("./speaker.js"),
   
     "sound": require("./sound.js"),
-  
-    "loud_sound": require("./loud_sound.js"),
   
     "mute": require("./mute.js"),
   
@@ -2017,19 +2017,19 @@ module.exports = {
   
     "diamonds": require("./diamonds.js"),
   
+    "anger_right": require("./anger_right.js"),
+  
     "flower_playing_cards": require("./flower_playing_cards.js"),
   
     "thought_balloon": require("./thought_balloon.js"),
-  
-    "anger_right": require("./anger_right.js"),
   
     "speech_balloon": require("./speech_balloon.js"),
   
     "clock1": require("./clock1.js"),
   
-    "clock2": require("./clock2.js"),
-  
     "clock3": require("./clock3.js"),
+  
+    "clock2": require("./clock2.js"),
   
     "clock4": require("./clock4.js"),
   
@@ -2043,11 +2043,11 @@ module.exports = {
   
     "clock9": require("./clock9.js"),
   
-    "clock10": require("./clock10.js"),
+    "clock12": require("./clock12.js"),
   
     "clock11": require("./clock11.js"),
   
-    "clock12": require("./clock12.js"),
+    "clock10": require("./clock10.js"),
   
     "clock130": require("./clock130.js"),
   
@@ -2067,17 +2067,17 @@ module.exports = {
   
     "clock930": require("./clock930.js"),
   
-    "clock1030": require("./clock1030.js"),
-  
     "clock1130": require("./clock1130.js"),
+  
+    "clock1030": require("./clock1030.js"),
   
     "clock1230": require("./clock1230.js"),
   
     "eye_in_speech_bubble": require("./eye_in_speech_bubble.js"),
   
-    "flag_ac": require("./flag_ac.js"),
-  
     "flag_af": require("./flag_af.js"),
+  
+    "flag_ac": require("./flag_ac.js"),
   
     "flag_al": require("./flag_al.js"),
   
@@ -2085,15 +2085,13 @@ module.exports = {
   
     "flag_ad": require("./flag_ad.js"),
   
-    "flag_ao": require("./flag_ao.js"),
-  
     "flag_ai": require("./flag_ai.js"),
   
     "flag_ag": require("./flag_ag.js"),
   
-    "flag_ar": require("./flag_ar.js"),
-  
     "flag_am": require("./flag_am.js"),
+  
+    "flag_ar": require("./flag_ar.js"),
   
     "flag_aw": require("./flag_aw.js"),
   
@@ -2103,35 +2101,35 @@ module.exports = {
   
     "flag_az": require("./flag_az.js"),
   
+    "flag_ao": require("./flag_ao.js"),
+  
     "flag_bs": require("./flag_bs.js"),
   
     "flag_bh": require("./flag_bh.js"),
-  
-    "flag_bd": require("./flag_bd.js"),
   
     "flag_bb": require("./flag_bb.js"),
   
     "flag_by": require("./flag_by.js"),
   
-    "flag_be": require("./flag_be.js"),
-  
     "flag_bz": require("./flag_bz.js"),
   
     "flag_bj": require("./flag_bj.js"),
   
+    "flag_be": require("./flag_be.js"),
+  
     "flag_bm": require("./flag_bm.js"),
   
-    "flag_bt": require("./flag_bt.js"),
-  
     "flag_bo": require("./flag_bo.js"),
+  
+    "flag_bt": require("./flag_bt.js"),
   
     "flag_ba": require("./flag_ba.js"),
   
     "flag_bw": require("./flag_bw.js"),
   
-    "flag_br": require("./flag_br.js"),
-  
     "flag_bn": require("./flag_bn.js"),
+  
+    "flag_br": require("./flag_br.js"),
   
     "flag_bg": require("./flag_bg.js"),
   
@@ -2139,25 +2137,25 @@ module.exports = {
   
     "flag_bi": require("./flag_bi.js"),
   
+    "flag_bd": require("./flag_bd.js"),
+  
     "flag_cv": require("./flag_cv.js"),
   
     "flag_kh": require("./flag_kh.js"),
   
-    "flag_cm": require("./flag_cm.js"),
-  
     "flag_ca": require("./flag_ca.js"),
   
-    "flag_ky": require("./flag_ky.js"),
+    "flag_cm": require("./flag_cm.js"),
   
     "flag_cf": require("./flag_cf.js"),
   
-    "flag_td": require("./flag_td.js"),
+    "flag_ky": require("./flag_ky.js"),
   
     "flag_cl": require("./flag_cl.js"),
   
     "flag_cn": require("./flag_cn.js"),
   
-    "flag_co": require("./flag_co.js"),
+    "flag_td": require("./flag_td.js"),
   
     "flag_km": require("./flag_km.js"),
   
@@ -2187,17 +2185,17 @@ module.exports = {
   
     "flag_eg": require("./flag_eg.js"),
   
-    "flag_sv": require("./flag_sv.js"),
+    "flag_co": require("./flag_co.js"),
   
     "flag_gq": require("./flag_gq.js"),
   
+    "flag_sv": require("./flag_sv.js"),
+  
     "flag_er": require("./flag_er.js"),
   
-    "flag_ee": require("./flag_ee.js"),
+    "flag_fk": require("./flag_fk.js"),
   
     "flag_et": require("./flag_et.js"),
-  
-    "flag_fk": require("./flag_fk.js"),
   
     "flag_fo": require("./flag_fo.js"),
   
@@ -2207,21 +2205,21 @@ module.exports = {
   
     "flag_fr": require("./flag_fr.js"),
   
-    "flag_pf": require("./flag_pf.js"),
+    "flag_ee": require("./flag_ee.js"),
   
     "flag_ga": require("./flag_ga.js"),
   
-    "flag_gm": require("./flag_gm.js"),
-  
     "flag_ge": require("./flag_ge.js"),
+  
+    "flag_pf": require("./flag_pf.js"),
   
     "flag_de": require("./flag_de.js"),
   
     "flag_gh": require("./flag_gh.js"),
   
-    "flag_gi": require("./flag_gi.js"),
-  
     "flag_gr": require("./flag_gr.js"),
+  
+    "flag_gi": require("./flag_gi.js"),
   
     "flag_gl": require("./flag_gl.js"),
   
@@ -2233,11 +2231,11 @@ module.exports = {
   
     "flag_gn": require("./flag_gn.js"),
   
-    "flag_gw": require("./flag_gw.js"),
-  
     "flag_gy": require("./flag_gy.js"),
   
     "flag_ht": require("./flag_ht.js"),
+  
+    "flag_gw": require("./flag_gw.js"),
   
     "flag_hn": require("./flag_hn.js"),
   
@@ -2245,9 +2243,9 @@ module.exports = {
   
     "flag_hu": require("./flag_hu.js"),
   
-    "flag_is": require("./flag_is.js"),
-  
     "flag_in": require("./flag_in.js"),
+  
+    "flag_is": require("./flag_is.js"),
   
     "flag_id": require("./flag_id.js"),
   
@@ -2255,35 +2253,35 @@ module.exports = {
   
     "flag_iq": require("./flag_iq.js"),
   
+    "flag_it": require("./flag_it.js"),
+  
     "flag_ie": require("./flag_ie.js"),
   
     "flag_il": require("./flag_il.js"),
   
-    "flag_it": require("./flag_it.js"),
-  
     "flag_ci": require("./flag_ci.js"),
   
-    "flag_jm": require("./flag_jm.js"),
-  
     "flag_jp": require("./flag_jp.js"),
+  
+    "flag_jm": require("./flag_jm.js"),
   
     "flag_je": require("./flag_je.js"),
   
     "flag_jo": require("./flag_jo.js"),
   
-    "flag_kz": require("./flag_kz.js"),
-  
     "flag_ke": require("./flag_ke.js"),
   
     "flag_ki": require("./flag_ki.js"),
   
-    "flag_xk": require("./flag_xk.js"),
+    "flag_kz": require("./flag_kz.js"),
+  
+    "flag_gm": require("./flag_gm.js"),
   
     "flag_kw": require("./flag_kw.js"),
   
-    "flag_kg": require("./flag_kg.js"),
+    "flag_xk": require("./flag_xk.js"),
   
-    "flag_la": require("./flag_la.js"),
+    "flag_kg": require("./flag_kg.js"),
   
     "flag_lv": require("./flag_lv.js"),
   
@@ -2297,29 +2295,29 @@ module.exports = {
   
     "flag_li": require("./flag_li.js"),
   
+    "flag_la": require("./flag_la.js"),
+  
     "flag_lt": require("./flag_lt.js"),
   
     "flag_lu": require("./flag_lu.js"),
   
     "flag_mo": require("./flag_mo.js"),
   
-    "flag_mk": require("./flag_mk.js"),
-  
     "flag_mg": require("./flag_mg.js"),
   
     "flag_mw": require("./flag_mw.js"),
   
-    "flag_my": require("./flag_my.js"),
-  
     "flag_mv": require("./flag_mv.js"),
+  
+    "flag_my": require("./flag_my.js"),
   
     "flag_ml": require("./flag_ml.js"),
   
     "flag_mt": require("./flag_mt.js"),
   
-    "flag_mh": require("./flag_mh.js"),
-  
     "flag_mr": require("./flag_mr.js"),
+  
+    "flag_mh": require("./flag_mh.js"),
   
     "flag_mu": require("./flag_mu.js"),
   
@@ -2339,15 +2337,15 @@ module.exports = {
   
     "flag_ma": require("./flag_ma.js"),
   
-    "flag_mz": require("./flag_mz.js"),
-  
     "flag_mm": require("./flag_mm.js"),
+  
+    "flag_mz": require("./flag_mz.js"),
   
     "flag_na": require("./flag_na.js"),
   
-    "flag_nr": require("./flag_nr.js"),
-  
     "flag_np": require("./flag_np.js"),
+  
+    "flag_nr": require("./flag_nr.js"),
   
     "flag_nl": require("./flag_nl.js"),
   
@@ -2355,11 +2353,9 @@ module.exports = {
   
     "flag_nz": require("./flag_nz.js"),
   
-    "flag_ni": require("./flag_ni.js"),
-  
     "flag_ne": require("./flag_ne.js"),
   
-    "flag_ng": require("./flag_ng.js"),
+    "flag_ni": require("./flag_ni.js"),
   
     "flag_nu": require("./flag_nu.js"),
   
@@ -2373,15 +2369,19 @@ module.exports = {
   
     "flag_pw": require("./flag_pw.js"),
   
-    "flag_ps": require("./flag_ps.js"),
+    "flag_ng": require("./flag_ng.js"),
   
     "flag_pa": require("./flag_pa.js"),
   
+    "flag_ps": require("./flag_ps.js"),
+  
     "flag_pg": require("./flag_pg.js"),
+  
+    "flag_pe": require("./flag_pe.js"),
   
     "flag_py": require("./flag_py.js"),
   
-    "flag_pe": require("./flag_pe.js"),
+    "flag_mk": require("./flag_mk.js"),
   
     "flag_ph": require("./flag_ph.js"),
   
@@ -2423,9 +2423,9 @@ module.exports = {
   
     "flag_sl": require("./flag_sl.js"),
   
-    "flag_sg": require("./flag_sg.js"),
-  
     "flag_sk": require("./flag_sk.js"),
+  
+    "flag_sg": require("./flag_sg.js"),
   
     "flag_si": require("./flag_si.js"),
   
@@ -2435,15 +2435,13 @@ module.exports = {
   
     "flag_za": require("./flag_za.js"),
   
-    "flag_kr": require("./flag_kr.js"),
-  
     "flag_es": require("./flag_es.js"),
+  
+    "flag_kr": require("./flag_kr.js"),
   
     "flag_lk": require("./flag_lk.js"),
   
     "flag_sd": require("./flag_sd.js"),
-  
-    "flag_sr": require("./flag_sr.js"),
   
     "flag_sz": require("./flag_sz.js"),
   
@@ -2451,13 +2449,13 @@ module.exports = {
   
     "flag_ch": require("./flag_ch.js"),
   
-    "flag_sy": require("./flag_sy.js"),
-  
     "flag_tw": require("./flag_tw.js"),
   
-    "flag_tj": require("./flag_tj.js"),
+    "flag_sy": require("./flag_sy.js"),
   
     "flag_tz": require("./flag_tz.js"),
+  
+    "flag_tj": require("./flag_tj.js"),
   
     "flag_th": require("./flag_th.js"),
   
@@ -2471,45 +2469,47 @@ module.exports = {
   
     "flag_tn": require("./flag_tn.js"),
   
-    "flag_tr": require("./flag_tr.js"),
-  
     "flag_tm": require("./flag_tm.js"),
   
-    "flag_tv": require("./flag_tv.js"),
+    "flag_tr": require("./flag_tr.js"),
   
     "flag_ug": require("./flag_ug.js"),
+  
+    "flag_tv": require("./flag_tv.js"),
   
     "flag_ua": require("./flag_ua.js"),
   
     "flag_ae": require("./flag_ae.js"),
   
-    "flag_gb": require("./flag_gb.js"),
-  
     "flag_us": require("./flag_us.js"),
+  
+    "flag_gb": require("./flag_gb.js"),
   
     "flag_vi": require("./flag_vi.js"),
   
     "flag_uy": require("./flag_uy.js"),
   
+    "flag_vu": require("./flag_vu.js"),
+  
     "flag_uz": require("./flag_uz.js"),
   
-    "flag_vu": require("./flag_vu.js"),
+    "flag_sr": require("./flag_sr.js"),
   
     "flag_va": require("./flag_va.js"),
   
-    "flag_ve": require("./flag_ve.js"),
-  
     "flag_vn": require("./flag_vn.js"),
   
-    "flag_wf": require("./flag_wf.js"),
+    "flag_ve": require("./flag_ve.js"),
   
     "flag_eh": require("./flag_eh.js"),
   
-    "flag_ye": require("./flag_ye.js"),
+    "flag_wf": require("./flag_wf.js"),
   
     "flag_zm": require("./flag_zm.js"),
   
     "flag_zw": require("./flag_zw.js"),
+  
+    "flag_ye": require("./flag_ye.js"),
   
     "flag_re": require("./flag_re.js"),
   
@@ -2519,9 +2519,9 @@ module.exports = {
   
     "flag_io": require("./flag_io.js"),
   
-    "flag_bq": require("./flag_bq.js"),
-  
     "flag_cx": require("./flag_cx.js"),
+  
+    "flag_bq": require("./flag_bq.js"),
   
     "flag_cc": require("./flag_cc.js"),
   
@@ -2537,9 +2537,9 @@ module.exports = {
   
     "flag_bl": require("./flag_bl.js"),
   
-    "flag_pm": require("./flag_pm.js"),
-  
     "flag_gs": require("./flag_gs.js"),
+  
+    "flag_pm": require("./flag_pm.js"),
   
     "flag_tk": require("./flag_tk.js"),
   
@@ -2551,31 +2551,31 @@ module.exports = {
   
     "flag_um": require("./flag_um.js"),
   
-    "flag_ic": require("./flag_ic.js"),
-  
     "flag_ea": require("./flag_ea.js"),
   
-    "flag_cp": require("./flag_cp.js"),
+    "flag_ic": require("./flag_ic.js"),
   
     "flag_dg": require("./flag_dg.js"),
+  
+    "flag_cp": require("./flag_cp.js"),
   
     "flag_as": require("./flag_as.js"),
   
     "flag_aq": require("./flag_aq.js"),
   
-    "flag_vg": require("./flag_vg.js"),
-  
     "flag_ck": require("./flag_ck.js"),
   
-    "flag_cw": require("./flag_cw.js"),
+    "flag_vg": require("./flag_vg.js"),
   
     "flag_eu": require("./flag_eu.js"),
   
-    "flag_gf": require("./flag_gf.js"),
+    "flag_cw": require("./flag_cw.js"),
   
     "flag_tf": require("./flag_tf.js"),
   
     "flag_gp": require("./flag_gp.js"),
+  
+    "flag_gf": require("./flag_gf.js"),
   
     "flag_mq": require("./flag_mq.js"),
   
@@ -2591,29 +2591,29 @@ module.exports = {
   
     "raised_hands_tone1": require("./raised_hands_tone1.js"),
   
-    "raised_hands_tone2": require("./raised_hands_tone2.js"),
-  
     "raised_hands_tone3": require("./raised_hands_tone3.js"),
   
-    "raised_hands_tone4": require("./raised_hands_tone4.js"),
+    "raised_hands_tone2": require("./raised_hands_tone2.js"),
   
-    "raised_hands_tone5": require("./raised_hands_tone5.js"),
+    "raised_hands_tone4": require("./raised_hands_tone4.js"),
   
     "clap_tone1": require("./clap_tone1.js"),
   
     "clap_tone2": require("./clap_tone2.js"),
   
-    "clap_tone3": require("./clap_tone3.js"),
+    "raised_hands_tone5": require("./raised_hands_tone5.js"),
   
     "clap_tone4": require("./clap_tone4.js"),
+  
+    "clap_tone3": require("./clap_tone3.js"),
   
     "clap_tone5": require("./clap_tone5.js"),
   
     "wave_tone1": require("./wave_tone1.js"),
   
-    "wave_tone2": require("./wave_tone2.js"),
-  
     "wave_tone3": require("./wave_tone3.js"),
+  
+    "wave_tone2": require("./wave_tone2.js"),
   
     "wave_tone4": require("./wave_tone4.js"),
   
@@ -2625,37 +2625,37 @@ module.exports = {
   
     "thumbsup_tone3": require("./thumbsup_tone3.js"),
   
-    "thumbsup_tone4": require("./thumbsup_tone4.js"),
-  
     "thumbsup_tone5": require("./thumbsup_tone5.js"),
   
-    "thumbsdown_tone1": require("./thumbsdown_tone1.js"),
-  
-    "thumbsdown_tone2": require("./thumbsdown_tone2.js"),
+    "thumbsup_tone4": require("./thumbsup_tone4.js"),
   
     "thumbsdown_tone3": require("./thumbsdown_tone3.js"),
   
-    "thumbsdown_tone4": require("./thumbsdown_tone4.js"),
+    "thumbsdown_tone2": require("./thumbsdown_tone2.js"),
   
-    "thumbsdown_tone5": require("./thumbsdown_tone5.js"),
+    "thumbsdown_tone1": require("./thumbsdown_tone1.js"),
+  
+    "thumbsdown_tone4": require("./thumbsdown_tone4.js"),
   
     "punch_tone1": require("./punch_tone1.js"),
   
-    "punch_tone2": require("./punch_tone2.js"),
+    "thumbsdown_tone5": require("./thumbsdown_tone5.js"),
   
     "punch_tone3": require("./punch_tone3.js"),
   
-    "punch_tone4": require("./punch_tone4.js"),
+    "punch_tone2": require("./punch_tone2.js"),
   
-    "punch_tone5": require("./punch_tone5.js"),
+    "punch_tone4": require("./punch_tone4.js"),
   
     "fist_tone1": require("./fist_tone1.js"),
   
+    "punch_tone5": require("./punch_tone5.js"),
+  
     "fist_tone2": require("./fist_tone2.js"),
   
-    "fist_tone3": require("./fist_tone3.js"),
-  
     "fist_tone4": require("./fist_tone4.js"),
+  
+    "fist_tone3": require("./fist_tone3.js"),
   
     "fist_tone5": require("./fist_tone5.js"),
   
@@ -2663,9 +2663,9 @@ module.exports = {
   
     "v_tone2": require("./v_tone2.js"),
   
-    "v_tone3": require("./v_tone3.js"),
-  
     "v_tone4": require("./v_tone4.js"),
+  
+    "v_tone3": require("./v_tone3.js"),
   
     "v_tone5": require("./v_tone5.js"),
   
@@ -2677,41 +2677,41 @@ module.exports = {
   
     "ok_hand_tone4": require("./ok_hand_tone4.js"),
   
-    "ok_hand_tone5": require("./ok_hand_tone5.js"),
-  
     "raised_hand_tone1": require("./raised_hand_tone1.js"),
   
     "raised_hand_tone2": require("./raised_hand_tone2.js"),
   
+    "ok_hand_tone5": require("./ok_hand_tone5.js"),
+  
     "raised_hand_tone3": require("./raised_hand_tone3.js"),
   
-    "raised_hand_tone4": require("./raised_hand_tone4.js"),
-  
     "raised_hand_tone5": require("./raised_hand_tone5.js"),
+  
+    "raised_hand_tone4": require("./raised_hand_tone4.js"),
   
     "open_hands_tone1": require("./open_hands_tone1.js"),
   
     "open_hands_tone2": require("./open_hands_tone2.js"),
   
-    "open_hands_tone3": require("./open_hands_tone3.js"),
-  
     "open_hands_tone4": require("./open_hands_tone4.js"),
+  
+    "open_hands_tone3": require("./open_hands_tone3.js"),
   
     "open_hands_tone5": require("./open_hands_tone5.js"),
   
-    "muscle_tone1": require("./muscle_tone1.js"),
-  
     "muscle_tone2": require("./muscle_tone2.js"),
   
-    "muscle_tone3": require("./muscle_tone3.js"),
+    "muscle_tone1": require("./muscle_tone1.js"),
   
     "muscle_tone4": require("./muscle_tone4.js"),
   
+    "muscle_tone3": require("./muscle_tone3.js"),
+  
     "muscle_tone5": require("./muscle_tone5.js"),
   
-    "pray_tone1": require("./pray_tone1.js"),
-  
     "pray_tone2": require("./pray_tone2.js"),
+  
+    "pray_tone1": require("./pray_tone1.js"),
   
     "pray_tone3": require("./pray_tone3.js"),
   
@@ -2719,13 +2719,13 @@ module.exports = {
   
     "pray_tone5": require("./pray_tone5.js"),
   
-    "point_up_tone1": require("./point_up_tone1.js"),
-  
     "point_up_tone2": require("./point_up_tone2.js"),
   
-    "point_up_tone3": require("./point_up_tone3.js"),
+    "point_up_tone1": require("./point_up_tone1.js"),
   
     "point_up_tone4": require("./point_up_tone4.js"),
+  
+    "point_up_tone3": require("./point_up_tone3.js"),
   
     "point_up_tone5": require("./point_up_tone5.js"),
   
@@ -2737,37 +2737,37 @@ module.exports = {
   
     "point_up_2_tone4": require("./point_up_2_tone4.js"),
   
-    "point_up_2_tone5": require("./point_up_2_tone5.js"),
+    "point_down_tone2": require("./point_down_tone2.js"),
   
     "point_down_tone1": require("./point_down_tone1.js"),
   
-    "point_down_tone2": require("./point_down_tone2.js"),
+    "point_up_2_tone5": require("./point_up_2_tone5.js"),
   
     "point_down_tone3": require("./point_down_tone3.js"),
   
     "point_down_tone4": require("./point_down_tone4.js"),
   
-    "point_down_tone5": require("./point_down_tone5.js"),
-  
     "point_left_tone1": require("./point_left_tone1.js"),
+  
+    "point_down_tone5": require("./point_down_tone5.js"),
   
     "point_left_tone2": require("./point_left_tone2.js"),
   
     "point_left_tone3": require("./point_left_tone3.js"),
   
-    "point_left_tone4": require("./point_left_tone4.js"),
-  
     "point_left_tone5": require("./point_left_tone5.js"),
+  
+    "point_left_tone4": require("./point_left_tone4.js"),
   
     "point_right_tone1": require("./point_right_tone1.js"),
   
-    "point_right_tone2": require("./point_right_tone2.js"),
-  
-    "point_right_tone3": require("./point_right_tone3.js"),
-  
     "point_right_tone4": require("./point_right_tone4.js"),
   
+    "point_right_tone2": require("./point_right_tone2.js"),
+  
     "point_right_tone5": require("./point_right_tone5.js"),
+  
+    "point_right_tone3": require("./point_right_tone3.js"),
   
     "middle_finger_tone1": require("./middle_finger_tone1.js"),
   
@@ -2803,27 +2803,27 @@ module.exports = {
   
     "vulcan_tone2": require("./vulcan_tone2.js"),
   
-    "vulcan_tone3": require("./vulcan_tone3.js"),
-  
     "vulcan_tone4": require("./vulcan_tone4.js"),
+  
+    "vulcan_tone3": require("./vulcan_tone3.js"),
   
     "vulcan_tone5": require("./vulcan_tone5.js"),
   
     "writing_hand_tone1": require("./writing_hand_tone1.js"),
   
+    "writing_hand_tone3": require("./writing_hand_tone3.js"),
+  
     "writing_hand_tone2": require("./writing_hand_tone2.js"),
   
-    "writing_hand_tone3": require("./writing_hand_tone3.js"),
+    "writing_hand_tone5": require("./writing_hand_tone5.js"),
   
     "writing_hand_tone4": require("./writing_hand_tone4.js"),
   
-    "writing_hand_tone5": require("./writing_hand_tone5.js"),
+    "nail_care_tone3": require("./nail_care_tone3.js"),
   
     "nail_care_tone1": require("./nail_care_tone1.js"),
   
     "nail_care_tone2": require("./nail_care_tone2.js"),
-  
-    "nail_care_tone3": require("./nail_care_tone3.js"),
   
     "nail_care_tone4": require("./nail_care_tone4.js"),
   
@@ -2833,9 +2833,9 @@ module.exports = {
   
     "ear_tone2": require("./ear_tone2.js"),
   
-    "ear_tone3": require("./ear_tone3.js"),
-  
     "ear_tone4": require("./ear_tone4.js"),
+  
+    "ear_tone3": require("./ear_tone3.js"),
   
     "ear_tone5": require("./ear_tone5.js"),
   
@@ -2845,17 +2845,17 @@ module.exports = {
   
     "nose_tone3": require("./nose_tone3.js"),
   
-    "nose_tone4": require("./nose_tone4.js"),
-  
     "nose_tone5": require("./nose_tone5.js"),
+  
+    "nose_tone4": require("./nose_tone4.js"),
   
     "baby_tone1": require("./baby_tone1.js"),
   
     "baby_tone2": require("./baby_tone2.js"),
   
-    "baby_tone3": require("./baby_tone3.js"),
-  
     "baby_tone4": require("./baby_tone4.js"),
+  
+    "baby_tone3": require("./baby_tone3.js"),
   
     "baby_tone5": require("./baby_tone5.js"),
   
@@ -2903,9 +2903,9 @@ module.exports = {
   
     "person_with_blond_hair_tone2": require("./person_with_blond_hair_tone2.js"),
   
-    "person_with_blond_hair_tone3": require("./person_with_blond_hair_tone3.js"),
-  
     "person_with_blond_hair_tone4": require("./person_with_blond_hair_tone4.js"),
+  
+    "person_with_blond_hair_tone3": require("./person_with_blond_hair_tone3.js"),
   
     "person_with_blond_hair_tone5": require("./person_with_blond_hair_tone5.js"),
   
@@ -2949,67 +2949,67 @@ module.exports = {
   
     "man_with_turban_tone5": require("./man_with_turban_tone5.js"),
   
-    "cop_tone1": require("./cop_tone1.js"),
-  
     "cop_tone2": require("./cop_tone2.js"),
+  
+    "cop_tone1": require("./cop_tone1.js"),
   
     "cop_tone3": require("./cop_tone3.js"),
   
     "cop_tone4": require("./cop_tone4.js"),
   
+    "construction_worker_tone2": require("./construction_worker_tone2.js"),
+  
     "cop_tone5": require("./cop_tone5.js"),
   
     "construction_worker_tone1": require("./construction_worker_tone1.js"),
   
-    "construction_worker_tone2": require("./construction_worker_tone2.js"),
-  
     "construction_worker_tone3": require("./construction_worker_tone3.js"),
-  
-    "construction_worker_tone4": require("./construction_worker_tone4.js"),
   
     "construction_worker_tone5": require("./construction_worker_tone5.js"),
   
-    "guardsman_tone1": require("./guardsman_tone1.js"),
+    "construction_worker_tone4": require("./construction_worker_tone4.js"),
   
-    "guardsman_tone3": require("./guardsman_tone3.js"),
+    "guardsman_tone1": require("./guardsman_tone1.js"),
   
     "guardsman_tone2": require("./guardsman_tone2.js"),
   
+    "guardsman_tone3": require("./guardsman_tone3.js"),
+  
     "guardsman_tone4": require("./guardsman_tone4.js"),
+  
+    "santa_tone2": require("./santa_tone2.js"),
   
     "guardsman_tone5": require("./guardsman_tone5.js"),
   
     "santa_tone1": require("./santa_tone1.js"),
   
-    "santa_tone2": require("./santa_tone2.js"),
-  
     "santa_tone3": require("./santa_tone3.js"),
   
     "santa_tone4": require("./santa_tone4.js"),
+  
+    "angel_tone2": require("./angel_tone2.js"),
   
     "santa_tone5": require("./santa_tone5.js"),
   
     "angel_tone1": require("./angel_tone1.js"),
   
-    "angel_tone2": require("./angel_tone2.js"),
-  
     "angel_tone3": require("./angel_tone3.js"),
-  
-    "angel_tone4": require("./angel_tone4.js"),
   
     "angel_tone5": require("./angel_tone5.js"),
   
-    "princess_tone1": require("./princess_tone1.js"),
+    "angel_tone4": require("./angel_tone4.js"),
   
     "princess_tone2": require("./princess_tone2.js"),
   
-    "princess_tone3": require("./princess_tone3.js"),
+    "princess_tone1": require("./princess_tone1.js"),
   
     "princess_tone4": require("./princess_tone4.js"),
   
-    "princess_tone5": require("./princess_tone5.js"),
+    "princess_tone3": require("./princess_tone3.js"),
   
     "bride_with_veil_tone1": require("./bride_with_veil_tone1.js"),
+  
+    "princess_tone5": require("./princess_tone5.js"),
   
     "bride_with_veil_tone2": require("./bride_with_veil_tone2.js"),
   
@@ -3021,11 +3021,11 @@ module.exports = {
   
     "walking_tone1": require("./walking_tone1.js"),
   
-    "walking_tone2": require("./walking_tone2.js"),
+    "walking_tone4": require("./walking_tone4.js"),
   
     "walking_tone3": require("./walking_tone3.js"),
   
-    "walking_tone4": require("./walking_tone4.js"),
+    "walking_tone2": require("./walking_tone2.js"),
   
     "walking_tone5": require("./walking_tone5.js"),
   
@@ -3043,15 +3043,15 @@ module.exports = {
   
     "dancer_tone2": require("./dancer_tone2.js"),
   
-    "dancer_tone3": require("./dancer_tone3.js"),
-  
     "dancer_tone4": require("./dancer_tone4.js"),
+  
+    "dancer_tone3": require("./dancer_tone3.js"),
   
     "dancer_tone5": require("./dancer_tone5.js"),
   
-    "bow_tone1": require("./bow_tone1.js"),
-  
     "bow_tone2": require("./bow_tone2.js"),
+  
+    "bow_tone1": require("./bow_tone1.js"),
   
     "bow_tone3": require("./bow_tone3.js"),
   
@@ -3079,17 +3079,17 @@ module.exports = {
   
     "no_good_tone5": require("./no_good_tone5.js"),
   
-    "ok_woman_tone1": require("./ok_woman_tone1.js"),
-  
     "ok_woman_tone2": require("./ok_woman_tone2.js"),
+  
+    "ok_woman_tone1": require("./ok_woman_tone1.js"),
   
     "ok_woman_tone3": require("./ok_woman_tone3.js"),
   
     "ok_woman_tone4": require("./ok_woman_tone4.js"),
   
-    "ok_woman_tone5": require("./ok_woman_tone5.js"),
-  
     "raising_hand_tone1": require("./raising_hand_tone1.js"),
+  
+    "ok_woman_tone5": require("./ok_woman_tone5.js"),
   
     "raising_hand_tone2": require("./raising_hand_tone2.js"),
   
@@ -3103,9 +3103,9 @@ module.exports = {
   
     "person_with_pouting_face_tone2": require("./person_with_pouting_face_tone2.js"),
   
-    "person_with_pouting_face_tone3": require("./person_with_pouting_face_tone3.js"),
-  
     "person_with_pouting_face_tone4": require("./person_with_pouting_face_tone4.js"),
+  
+    "person_with_pouting_face_tone3": require("./person_with_pouting_face_tone3.js"),
   
     "person_with_pouting_face_tone5": require("./person_with_pouting_face_tone5.js"),
   
@@ -3113,15 +3113,15 @@ module.exports = {
   
     "person_frowning_tone2": require("./person_frowning_tone2.js"),
   
-    "person_frowning_tone3": require("./person_frowning_tone3.js"),
-  
     "person_frowning_tone4": require("./person_frowning_tone4.js"),
+  
+    "person_frowning_tone3": require("./person_frowning_tone3.js"),
   
     "person_frowning_tone5": require("./person_frowning_tone5.js"),
   
-    "haircut_tone1": require("./haircut_tone1.js"),
-  
     "haircut_tone2": require("./haircut_tone2.js"),
+  
+    "haircut_tone1": require("./haircut_tone1.js"),
   
     "haircut_tone3": require("./haircut_tone3.js"),
   
@@ -3133,13 +3133,13 @@ module.exports = {
   
     "massage_tone2": require("./massage_tone2.js"),
   
-    "massage_tone3": require("./massage_tone3.js"),
-  
     "massage_tone4": require("./massage_tone4.js"),
   
-    "massage_tone5": require("./massage_tone5.js"),
+    "massage_tone3": require("./massage_tone3.js"),
   
     "rowboat_tone1": require("./rowboat_tone1.js"),
+  
+    "massage_tone5": require("./massage_tone5.js"),
   
     "rowboat_tone2": require("./rowboat_tone2.js"),
   
@@ -3149,9 +3149,9 @@ module.exports = {
   
     "rowboat_tone5": require("./rowboat_tone5.js"),
   
-    "swimmer_tone1": require("./swimmer_tone1.js"),
-  
     "swimmer_tone2": require("./swimmer_tone2.js"),
+  
+    "swimmer_tone1": require("./swimmer_tone1.js"),
   
     "swimmer_tone3": require("./swimmer_tone3.js"),
   
@@ -3159,21 +3159,23 @@ module.exports = {
   
     "swimmer_tone5": require("./swimmer_tone5.js"),
   
-    "surfer_tone1": require("./surfer_tone1.js"),
-  
     "surfer_tone2": require("./surfer_tone2.js"),
   
     "surfer_tone3": require("./surfer_tone3.js"),
   
-    "surfer_tone4": require("./surfer_tone4.js"),
-  
     "surfer_tone5": require("./surfer_tone5.js"),
+  
+    "surfer_tone1": require("./surfer_tone1.js"),
+  
+    "surfer_tone4": require("./surfer_tone4.js"),
   
     "bath_tone1": require("./bath_tone1.js"),
   
     "bath_tone2": require("./bath_tone2.js"),
   
     "bath_tone3": require("./bath_tone3.js"),
+  
+    "bath_tone4": require("./bath_tone4.js"),
   
     "basketball_player_tone2": require("./basketball_player_tone2.js"),
   
@@ -3183,17 +3185,15 @@ module.exports = {
   
     "bath_tone5": require("./bath_tone5.js"),
   
-    "bath_tone4": require("./bath_tone4.js"),
-  
     "basketball_player_tone4": require("./basketball_player_tone4.js"),
   
     "basketball_player_tone5": require("./basketball_player_tone5.js"),
   
     "lifter_tone1": require("./lifter_tone1.js"),
   
-    "lifter_tone3": require("./lifter_tone3.js"),
-  
     "lifter_tone2": require("./lifter_tone2.js"),
+  
+    "lifter_tone3": require("./lifter_tone3.js"),
   
     "lifter_tone4": require("./lifter_tone4.js"),
   
@@ -3205,17 +3205,17 @@ module.exports = {
   
     "bicyclist_tone2": require("./bicyclist_tone2.js"),
   
-    "bicyclist_tone4": require("./bicyclist_tone4.js"),
+    "mountain_bicyclist_tone1": require("./mountain_bicyclist_tone1.js"),
   
     "bicyclist_tone5": require("./bicyclist_tone5.js"),
   
-    "mountain_bicyclist_tone1": require("./mountain_bicyclist_tone1.js"),
-  
-    "mountain_bicyclist_tone2": require("./mountain_bicyclist_tone2.js"),
+    "bicyclist_tone4": require("./bicyclist_tone4.js"),
   
     "mountain_bicyclist_tone3": require("./mountain_bicyclist_tone3.js"),
   
     "mountain_bicyclist_tone4": require("./mountain_bicyclist_tone4.js"),
+  
+    "mountain_bicyclist_tone2": require("./mountain_bicyclist_tone2.js"),
   
     "mountain_bicyclist_tone5": require("./mountain_bicyclist_tone5.js"),
   
@@ -3231,17 +3231,17 @@ module.exports = {
   
     "spy_tone1": require("./spy_tone1.js"),
   
-    "spy_tone2": require("./spy_tone2.js"),
-  
     "spy_tone3": require("./spy_tone3.js"),
   
     "spy_tone4": require("./spy_tone4.js"),
   
+    "spy_tone2": require("./spy_tone2.js"),
+  
     "spy_tone5": require("./spy_tone5.js"),
   
-    "tone1": require("./tone1.js"),
-  
     "tone2": require("./tone2.js"),
+  
+    "tone1": require("./tone1.js"),
   
     "tone3": require("./tone3.js"),
   
@@ -3249,33 +3249,31 @@ module.exports = {
   
     "tone5": require("./tone5.js"),
   
-    "prince_tone1": require("./prince_tone1.js"),
-  
     "prince_tone2": require("./prince_tone2.js"),
-  
-    "prince_tone3": require("./prince_tone3.js"),
   
     "prince_tone4": require("./prince_tone4.js"),
   
-    "prince_tone5": require("./prince_tone5.js"),
+    "prince_tone3": require("./prince_tone3.js"),
   
     "mrs_claus_tone1": require("./mrs_claus_tone1.js"),
   
+    "prince_tone5": require("./prince_tone5.js"),
+  
     "mrs_claus_tone2": require("./mrs_claus_tone2.js"),
   
-    "mrs_claus_tone3": require("./mrs_claus_tone3.js"),
+    "prince_tone1": require("./prince_tone1.js"),
   
     "mrs_claus_tone4": require("./mrs_claus_tone4.js"),
   
-    "mrs_claus_tone5": require("./mrs_claus_tone5.js"),
-  
-    "man_in_tuxedo_tone1": require("./man_in_tuxedo_tone1.js"),
+    "mrs_claus_tone3": require("./mrs_claus_tone3.js"),
   
     "man_in_tuxedo_tone2": require("./man_in_tuxedo_tone2.js"),
   
-    "man_in_tuxedo_tone3": require("./man_in_tuxedo_tone3.js"),
+    "man_in_tuxedo_tone1": require("./man_in_tuxedo_tone1.js"),
   
     "man_in_tuxedo_tone4": require("./man_in_tuxedo_tone4.js"),
+  
+    "man_in_tuxedo_tone3": require("./man_in_tuxedo_tone3.js"),
   
     "man_in_tuxedo_tone5": require("./man_in_tuxedo_tone5.js"),
   
@@ -3289,11 +3287,11 @@ module.exports = {
   
     "shrug_tone5": require("./shrug_tone5.js"),
   
-    "face_palm_tone1": require("./face_palm_tone1.js"),
+    "mrs_claus_tone5": require("./mrs_claus_tone5.js"),
   
     "face_palm_tone2": require("./face_palm_tone2.js"),
   
-    "face_palm_tone3": require("./face_palm_tone3.js"),
+    "face_palm_tone1": require("./face_palm_tone1.js"),
   
     "face_palm_tone4": require("./face_palm_tone4.js"),
   
@@ -3311,21 +3309,23 @@ module.exports = {
   
     "man_dancing_tone1": require("./man_dancing_tone1.js"),
   
-    "man_dancing_tone2": require("./man_dancing_tone2.js"),
-  
     "man_dancing_tone3": require("./man_dancing_tone3.js"),
   
     "man_dancing_tone4": require("./man_dancing_tone4.js"),
   
-    "selfie_tone1": require("./selfie_tone1.js"),
+    "man_dancing_tone2": require("./man_dancing_tone2.js"),
   
     "man_dancing_tone5": require("./man_dancing_tone5.js"),
   
-    "selfie_tone2": require("./selfie_tone2.js"),
+    "selfie_tone1": require("./selfie_tone1.js"),
   
     "selfie_tone3": require("./selfie_tone3.js"),
   
+    "selfie_tone2": require("./selfie_tone2.js"),
+  
     "selfie_tone4": require("./selfie_tone4.js"),
+  
+    "face_palm_tone3": require("./face_palm_tone3.js"),
   
     "selfie_tone5": require("./selfie_tone5.js"),
   
@@ -3337,9 +3337,9 @@ module.exports = {
   
     "fingers_crossed_tone4": require("./fingers_crossed_tone4.js"),
   
-    "fingers_crossed_tone5": require("./fingers_crossed_tone5.js"),
-  
     "call_me_tone1": require("./call_me_tone1.js"),
+  
+    "fingers_crossed_tone5": require("./fingers_crossed_tone5.js"),
   
     "call_me_tone2": require("./call_me_tone2.js"),
   
@@ -3351,9 +3351,9 @@ module.exports = {
   
     "left_facing_fist_tone1": require("./left_facing_fist_tone1.js"),
   
-    "left_facing_fist_tone2": require("./left_facing_fist_tone2.js"),
-  
     "left_facing_fist_tone3": require("./left_facing_fist_tone3.js"),
+  
+    "left_facing_fist_tone2": require("./left_facing_fist_tone2.js"),
   
     "left_facing_fist_tone4": require("./left_facing_fist_tone4.js"),
   
@@ -3369,9 +3369,9 @@ module.exports = {
   
     "right_facing_fist_tone5": require("./right_facing_fist_tone5.js"),
   
-    "raised_back_of_hand_tone1": require("./raised_back_of_hand_tone1.js"),
-  
     "raised_back_of_hand_tone2": require("./raised_back_of_hand_tone2.js"),
+  
+    "raised_back_of_hand_tone1": require("./raised_back_of_hand_tone1.js"),
   
     "raised_back_of_hand_tone3": require("./raised_back_of_hand_tone3.js"),
   
@@ -3379,9 +3379,9 @@ module.exports = {
   
     "raised_back_of_hand_tone5": require("./raised_back_of_hand_tone5.js"),
   
-    "handshake_tone1": require("./handshake_tone1.js"),
-  
     "handshake_tone2": require("./handshake_tone2.js"),
+  
+    "handshake_tone1": require("./handshake_tone1.js"),
   
     "handshake_tone3": require("./handshake_tone3.js"),
   
@@ -3397,23 +3397,23 @@ module.exports = {
   
     "cartwheel_tone4": require("./cartwheel_tone4.js"),
   
-    "cartwheel_tone5": require("./cartwheel_tone5.js"),
-  
     "wrestlers_tone1": require("./wrestlers_tone1.js"),
   
-    "wrestlers_tone2": require("./wrestlers_tone2.js"),
+    "cartwheel_tone5": require("./cartwheel_tone5.js"),
   
     "wrestlers_tone3": require("./wrestlers_tone3.js"),
+  
+    "wrestlers_tone2": require("./wrestlers_tone2.js"),
   
     "wrestlers_tone4": require("./wrestlers_tone4.js"),
   
     "wrestlers_tone5": require("./wrestlers_tone5.js"),
   
-    "water_polo_tone1": require("./water_polo_tone1.js"),
+    "water_polo_tone3": require("./water_polo_tone3.js"),
   
     "water_polo_tone2": require("./water_polo_tone2.js"),
   
-    "water_polo_tone3": require("./water_polo_tone3.js"),
+    "water_polo_tone1": require("./water_polo_tone1.js"),
   
     "water_polo_tone4": require("./water_polo_tone4.js"),
   
@@ -3421,9 +3421,9 @@ module.exports = {
   
     "handball_tone1": require("./handball_tone1.js"),
   
-    "handball_tone2": require("./handball_tone2.js"),
-  
     "handball_tone3": require("./handball_tone3.js"),
+  
+    "handball_tone2": require("./handball_tone2.js"),
   
     "handball_tone4": require("./handball_tone4.js"),
   
@@ -3431,9 +3431,9 @@ module.exports = {
   
     "juggling_tone1": require("./juggling_tone1.js"),
   
-    "juggling_tone2": require("./juggling_tone2.js"),
-  
     "juggling_tone3": require("./juggling_tone3.js"),
+  
+    "juggling_tone2": require("./juggling_tone2.js"),
   
     "juggling_tone4": require("./juggling_tone4.js"),
   
@@ -3445,11 +3445,11 @@ module.exports = {
   
     "cowboy": require("./cowboy.js"),
   
-    "clown": require("./clown.js"),
-  
     "nauseated_face": require("./nauseated_face.js"),
   
     "rofl": require("./rofl.js"),
+  
+    "clown": require("./clown.js"),
   
     "drooling_face": require("./drooling_face.js"),
   
@@ -3463,9 +3463,9 @@ module.exports = {
   
     "mrs_claus": require("./mrs_claus.js"),
   
-    "face_palm": require("./face_palm.js"),
-  
     "shrug": require("./shrug.js"),
+  
+    "face_palm": require("./face_palm.js"),
   
     "pregnant_woman": require("./pregnant_woman.js"),
   
@@ -3481,11 +3481,11 @@ module.exports = {
   
     "right_facing_fist": require("./right_facing_fist.js"),
   
-    "handshake": require("./handshake.js"),
-  
     "fingers_crossed": require("./fingers_crossed.js"),
   
     "black_heart": require("./black_heart.js"),
+  
+    "handshake": require("./handshake.js"),
   
     "eagle": require("./eagle.js"),
   
@@ -3499,17 +3499,17 @@ module.exports = {
   
     "fox": require("./fox.js"),
   
-    "butterfly": require("./butterfly.js"),
-  
     "deer": require("./deer.js"),
+  
+    "butterfly": require("./butterfly.js"),
   
     "gorilla": require("./gorilla.js"),
   
     "lizard": require("./lizard.js"),
   
-    "rhino": require("./rhino.js"),
-  
     "wilted_rose": require("./wilted_rose.js"),
+  
+    "rhino": require("./rhino.js"),
   
     "croissant": require("./croissant.js"),
   
@@ -3537,9 +3537,9 @@ module.exports = {
   
     "spoon": require("./spoon.js"),
   
-    "octagonal_sign": require("./octagonal_sign.js"),
-  
     "shopping_cart": require("./shopping_cart.js"),
+  
+    "octagonal_sign": require("./octagonal_sign.js"),
   
     "scooter": require("./scooter.js"),
   
@@ -3549,15 +3549,15 @@ module.exports = {
   
     "cartwheel": require("./cartwheel.js"),
   
-    "juggling": require("./juggling.js"),
-  
     "wrestlers": require("./wrestlers.js"),
+  
+    "juggling": require("./juggling.js"),
   
     "boxing_glove": require("./boxing_glove.js"),
   
-    "martial_arts_uniform": require("./martial_arts_uniform.js"),
-  
     "water_polo": require("./water_polo.js"),
+  
+    "martial_arts_uniform": require("./martial_arts_uniform.js"),
   
     "handball": require("./handball.js"),
   
@@ -3565,43 +3565,43 @@ module.exports = {
   
     "fencer": require("./fencer.js"),
   
-    "first_place": require("./first_place.js"),
-  
     "second_place": require("./second_place.js"),
   
-    "third_place": require("./third_place.js"),
+    "first_place": require("./first_place.js"),
   
     "drum": require("./drum.js"),
   
-    "shrimp": require("./shrimp.js"),
+    "third_place": require("./third_place.js"),
   
     "squid": require("./squid.js"),
   
+    "shrimp": require("./shrimp.js"),
+  
     "egg": require("./egg.js"),
+  
+    "kiwi": require("./kiwi.js"),
   
     "milk": require("./milk.js"),
   
     "peanuts": require("./peanuts.js"),
   
-    "kiwi": require("./kiwi.js"),
-  
     "pancakes": require("./pancakes.js"),
   
     "asterisk_symbol": require("./asterisk_symbol.js"),
-  
-    "pound_symbol": require("./pound_symbol.js"),
   
     "regional_indicator_z": require("./regional_indicator_z.js"),
   
     "regional_indicator_y": require("./regional_indicator_y.js"),
   
+    "pound_symbol": require("./pound_symbol.js"),
+  
     "regional_indicator_x": require("./regional_indicator_x.js"),
+  
+    "regional_indicator_u": require("./regional_indicator_u.js"),
   
     "regional_indicator_w": require("./regional_indicator_w.js"),
   
     "regional_indicator_v": require("./regional_indicator_v.js"),
-  
-    "regional_indicator_u": require("./regional_indicator_u.js"),
   
     "regional_indicator_t": require("./regional_indicator_t.js"),
   
@@ -3615,27 +3615,27 @@ module.exports = {
   
     "regional_indicator_o": require("./regional_indicator_o.js"),
   
-    "regional_indicator_n": require("./regional_indicator_n.js"),
-  
     "regional_indicator_m": require("./regional_indicator_m.js"),
   
-    "regional_indicator_l": require("./regional_indicator_l.js"),
+    "regional_indicator_n": require("./regional_indicator_n.js"),
   
     "regional_indicator_k": require("./regional_indicator_k.js"),
   
-    "regional_indicator_j": require("./regional_indicator_j.js"),
+    "regional_indicator_l": require("./regional_indicator_l.js"),
   
     "regional_indicator_i": require("./regional_indicator_i.js"),
+  
+    "regional_indicator_j": require("./regional_indicator_j.js"),
   
     "regional_indicator_h": require("./regional_indicator_h.js"),
   
     "regional_indicator_g": require("./regional_indicator_g.js"),
   
-    "regional_indicator_f": require("./regional_indicator_f.js"),
+    "regional_indicator_d": require("./regional_indicator_d.js"),
   
     "regional_indicator_e": require("./regional_indicator_e.js"),
   
-    "regional_indicator_d": require("./regional_indicator_d.js"),
+    "regional_indicator_f": require("./regional_indicator_f.js"),
   
     "regional_indicator_c": require("./regional_indicator_c.js"),
   
@@ -3651,16 +3651,12 @@ module.exports = {
   
     "digit_six": require("./digit_six.js"),
   
+    "digit_three": require("./digit_three.js"),
+  
     "digit_five": require("./digit_five.js"),
   
     "digit_four": require("./digit_four.js"),
   
-    "digit_three": require("./digit_three.js"),
-  
     "digit_two": require("./digit_two.js"),
-  
-    "digit_one": require("./digit_one.js"),
-  
-    "digit_zero": require("./digit_zero.js"),
   
 };
